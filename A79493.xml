@@ -1,0 +1,1103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The evening star appearing to the saints, directing them to celebrate their holy rest, even the Sabbath-day (not from morning to morning nor from midnight to midnight but) from even to even, according to the word of God ... There is an epistle to the Parliament in the conclusion ... Unto which is annexed, A new Christian creed ... / By Samuel Chidley, Cler.</title>
+            <author>Chidley, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 127 KB of XML-encoded text transcribed from 82 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79493</idno>
+            <idno type="STC">Wing C3839B</idno>
+            <idno type="STC">ESTC R173826</idno>
+            <idno type="EEBO-CITATION">45504419</idno>
+            <idno type="OCLC">ocm 45504419</idno>
+            <idno type="VID">171725</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79493)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171725)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2588:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The evening star appearing to the saints, directing them to celebrate their holy rest, even the Sabbath-day (not from morning to morning nor from midnight to midnight but) from even to even, according to the word of God ... There is an epistle to the Parliament in the conclusion ... Unto which is annexed, A new Christian creed ... / By Samuel Chidley, Cler.</title>
+                  <author>Chidley, Samuel.</author>
+               </titleStmt>
+               <extent>[12], 167 [i.e. 142] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Clowes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errors in paging: pagination goes from p. 24 to p. 49.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sabbath --  Early works to 1800.</term>
+               <term>Theology --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171725:1" rendition="simple:additions"/>
+            <p>THE EVENING-STAR Appearing to the SAINTS, Directing them to celebrate their Holy Reſt, even the <hi>Sabbath-day,</hi> (not from <hi>Morning</hi> to <hi>Morning</hi> nor from <hi>Midnight</hi> to <hi>Midnight;</hi> but) from <hi>Even</hi> to <hi>Even,</hi> accor<g ref="char:EOLhyphen"/>ding to the Word of God.</p>
+            <p>Firſt written in a Letter at the earneſt Re<g ref="char:EOLhyphen"/>queſt of a Friend for his ſatisfaction, concerning the <hi>beginning of the Sabbath Day:</hi> And here publiſhed for the generall good of all that profeſs Chriſtianity; and in order to the rectifying of ſome things in the late Act, concerning the obſer<g ref="char:EOLhyphen"/>vation of the <hi>Lords Day.</hi>
+            </p>
+            <p>There is an Epiſtle to the Parliament in the Con<g ref="char:EOLhyphen"/>cluſion, tending alſo to the taking away of the Popiſh Prelaticall, and Antichriſtian Presbyteri<g ref="char:EOLhyphen"/>an-Penalties, contained in ſevrall <hi>Acts</hi> and <hi>Or<g ref="char:EOLhyphen"/>dinances</hi> of Parliament which have been, and ſtill are put in execution againſt the beſt ſort of <hi>reli<g ref="char:EOLhyphen"/>gious Protestants.</hi>
+            </p>
+            <p>Unto which is alſo anexed, <hi>A new Christian Creed built upon the old foundation of the holy A<g ref="char:EOLhyphen"/>poſtles,</hi> and Prophets <hi>Jeſus Chriſt being the cheef Corner Stone.</hi>
+            </p>
+            <p>By SAMUEL CHIDLEY, <hi>Cler.</hi>
+            </p>
+            <p>
+               <hi>London;</hi> Printed by <hi>John Clowes.</hi> 1650.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:171725:2"/>
+            <pb facs="tcp:171725:2"/>
+            <head>The Preface, and E<g ref="char:EOLhyphen"/>piſtle Dedicatory. To the Saints on earth, Grace, Mercy and Peace be multiplyed.</head>
+            <opener>
+               <salute>Beloved,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S Jehovah hath choſen you to be his holy, ſpe<g ref="char:EOLhyphen"/>cial and peculiar Peo<g ref="char:EOLhyphen"/>ple above all the people that are upon the face of the Earth,<note n="*" place="margin">
+                  <hi>Deut.</hi> 7.6. &amp; 14.2. <hi>Exod.</hi> 19.5. <hi>Iſa.</hi> 56. <hi>Rom.</hi> 10.12.</note> 
+               <hi>ſo he hath given unto you</hi> ſigns <hi>&amp;</hi> Sacraments, <hi>amongſt which</hi> the Sabbath is a ſign be<g ref="char:EOLhyphen"/>tween him and you, to teſtifie, That he is Jehovah which ſanctifieth you;<note n="*" place="margin">
+                  <hi>Exod.</hi> 31.13, 17.</note> Therefore ye are commanded to Remember
+<pb facs="tcp:171725:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:171725:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:171725:4"/> the Sabbath-day to keep it ho<g ref="char:EOLhyphen"/>ly.<note n="*" place="margin">
+                  <hi>Ex.</hi> 20.8.</note>
+            </p>
+            <p>
+               <hi>From the</hi> Creation <hi>of the</hi> world, God <hi>did appoint</hi> one day <hi>of</hi> ſeven <hi>to be</hi> a Sabbath, <hi>not onely</hi> becauſe he had reſted on the ſeventh day from all his Workes which he had crea<g ref="char:EOLhyphen"/>ted <hi>and</hi> made;<note n="*" place="margin">
+                  <hi>Deut.</hi> 31.17. <hi>Gen.</hi> 2.2.</note> 
+               <hi>But that</hi> both man &amp; beaſt might have reſt and reſreſhment alſo,<note n="*" place="margin">
+                  <hi>Deut.</hi> 5.14.</note> 
+               <hi>which thing remaineth ſub<g ref="char:EOLhyphen"/>ſtantially unto this day, as ſure as</hi> God is merciful <hi>who hath not left it to the</hi> wills of men; <hi>but hath eſtabliſhed this</hi> Liberty, <hi>upon the grounds of</hi> certainty.</p>
+            <p>
+               <hi>In old time</hi> God did inſtitute the ſeventh day for a<note n="*" place="margin">
+                  <hi>Ex.</hi> 20.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0. See <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r. <hi>Anſ<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orth's</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ranſla<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion.</note> Sab<g ref="char:EOLhyphen"/>bath, <hi>but there was not that
+<pb facs="tcp:171725:4"/> deſirable</hi> perfection <hi>in it for</hi> acception <hi>as was upon</hi> the firſt day of the wick <hi>the</hi> morrow af<g ref="char:EOLhyphen"/>ter the Jews Sabbath; <hi>which was</hi> higher, <hi>and</hi> more honour<g ref="char:EOLhyphen"/>able <hi>becauſe of the</hi> Wave<g ref="char:EOLhyphen"/>ſheaf,<note n="*" place="margin">
+                  <hi>Lev.</hi> 23.10.11.—1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>and</hi> firſt fruits<note n="**" place="margin">
+                  <hi>ver<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 15 —21</note> 
+               <hi>then preſented before the</hi> LORD, <hi>thoſe lively</hi> Types <hi>of</hi> Jeſus Chriſt, <hi>who is</hi> the firſt fruits of them that ſleep,<note n="*" place="margin">1 <hi>Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 15.20.23.</note> 
+               <hi>who</hi> roſe from the dead on the morrow after the Sabbath; <hi>As there<g ref="char:EOLhyphen"/>fore</hi> the Jews were to obſerve it as a Sabboth, and a holy con<g ref="char:EOLhyphen"/>vocation by ſolemn Proclama<g ref="char:EOLhyphen"/>ion it was to be unto them, And they were to do no ſervile work therein<note n="*" place="margin">
+                  <hi>Lev.</hi> 23.21.</note>: <hi>So muſt the</hi> Chriſtians <hi>now in the dayes of</hi> Chriſt our Lord<note n="*" place="margin">
+                  <hi>Pſa.</hi> 110.31</note>, <hi>who</hi> ho<g ref="char:EOLhyphen"/>noured
+<pb facs="tcp:171725:5"/> this day <hi>by his</hi> pre<g ref="char:EOLhyphen"/>ſence, <hi>in the midſt of his</hi> Diſ<g ref="char:EOLhyphen"/>ciples <hi>after his</hi> Reſurection, up<g ref="char:EOLhyphen"/>on the firſt day of the Week,<note n="*" place="margin">
+                  <hi>Joh.</hi> 20 19.</note> 
+               <hi>and</hi> eight days after that<note n="*" place="margin">
+                  <hi>er.</hi> 26.</note> e<g ref="char:EOLhyphen"/>ven upon the ſecond firſt day<note n="*" place="margin">
+                  <hi>Lev.</hi> 23.15.16.</note> 
+               <hi>he came again &amp; gave them more fuller manifeſtations, and confirmations of his</hi> Re<g ref="char:EOLhyphen"/>ſurrection, breathing on them that they might receive the Ho<g ref="char:EOLhyphen"/>ly-Ghoſt, <hi>and after his</hi> Aſcenſi<g ref="char:EOLhyphen"/>on into Heaven, ſent down the Holy-Ghoſt upon his Diſciples on the fiftieth day, <hi>which was</hi> the morrow after the Jews Sab<g ref="char:EOLhyphen"/>bath<note n="*" place="margin">
+                  <hi>Acts</hi> 2.1.</note>, And on the Lords day <hi>alſo, he</hi> raviſhed with his ſpi<g ref="char:EOLhyphen"/>rit, <hi>that</hi> Diſciple John, <hi>whom he ſo dearly loved before his death; And then and there</hi>
+               <pb facs="tcp:171725:5"/> in the Iſle of Pathmos, <hi>he im, parted that great</hi> Revelation <hi>which is called</hi> The Revelation of Jeſus Chriſt, <hi>which he had received from the boſome of the</hi> Father<note n="*" place="margin">
+                  <hi>Rev.</hi> 1.1, 10.</note>. <hi>This</hi> firſt day of the week, <hi>is the day of</hi> Chriſts power<note n="*" place="margin">
+                  <hi>Pſalm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 110.2.</note>, <hi>on which day the</hi> di<g ref="char:EOLhyphen"/>ſciples <hi>met together to</hi> break bread, <hi>and to practiſe the o<g ref="char:EOLhyphen"/>ther</hi> Ordinances <hi>of</hi> God, <hi>for the ſetting forth of</hi> Jeſus Chriſt, <hi>who</hi> holdeth his Mini<g ref="char:EOLhyphen"/>ſters in his right hand, and walketh in the midſt of his Churches<note n="*" place="margin">
+                  <hi>Acts</hi> 20.7. 1 <hi>Cor.</hi> 16.2. <hi>Rev.</hi> 1.12, 13, — 20. &amp; 2.1. &amp; 7.16.</note>. <hi>This is</hi> the day of our holy ſolemnity <hi>to be kept in</hi> Sion, the City of the Saints ſolemnities, <hi>upon which</hi> day our Lord Chriſt <hi>was</hi> made per<g ref="char:EOLhyphen"/>fect,<note n="*" place="margin">
+                  <hi>Luke</hi> 13.32. <hi>Heb.</hi> 5.9.</note> an High Prieſt for ever,
+<pb facs="tcp:171725:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:171725:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:171725:7"/> not after the Law of a carna<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> commandement, but after the power of an endleſs life<note n="*" place="margin">&amp; 7.16.</note>; <hi>then</hi> the ſtone which the Builders refuſed became the head of the Corner;<note place="margin">
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Pſ.</hi> 118.</note> 
+               <hi>Then</hi> the right hand of Jehovah was exalted and did valiantly; <hi>Then</hi> Chriſt <hi>ſaid,</hi> I ſhall not dye but live and declare the works of Jeho<g ref="char:EOLhyphen"/>vah<note n="*" place="margin">
+                  <hi>Pſ.</hi> 118.18.19.</note>; <hi>For although for a little while as precious ſeed he lay in the</hi> heart of the earth, <hi>yet through the</hi> quick<g ref="char:EOLhyphen"/>ning Spirit of God, <hi>which came upon him as the</hi> dew <hi>of</hi> Heaven <hi>he</hi> aroſe, and ſang, <hi>and</hi> Jehovah <hi>was then his</hi> ſtrength and ſong, <hi>and</hi> alſo be<g ref="char:EOLhyphen"/>came his Salvation<note n="*" place="margin">
+                  <hi>v.</hi> 14.</note>.</p>
+            <p>
+               <hi>This</hi> day <hi>is a</hi> joyful <hi>&amp;</hi> good
+<pb facs="tcp:171725:7"/> day; <hi>This</hi> Sabbath <hi>is</hi> a delight, holy of Jehovah, honourable<note n="*" place="margin">
+                  <hi>Iſa.</hi> 58.13. <hi>Pſ.</hi> 118.22.</note> 
+               <hi>it is the</hi> day of his marvelous do<g ref="char:EOLhyphen"/>ings; This is the day which Jehovah hath made<note n="*" place="margin">
+                  <hi>ver.</hi> 24.</note>, <hi>our</hi> God <hi>hath entred into</hi> Cove<g ref="char:EOLhyphen"/>nant with us this day,<note n="*" place="margin">
+                  <hi>Iſa.</hi> 54 9, 10.</note> 
+               <hi>to</hi> give us the ſure mercies of David<note n="*" place="margin">
+                  <hi>Acts</hi> 13.34.</note>;</p>
+            <p>
+               <hi>This is the</hi> wedding-day <hi>of</hi> Jeſus Chriſt <hi>with his</hi> beloved ſpouſe<note n="*" place="margin">
+                  <hi>Iſa.</hi> 54.5.</note>, <hi>it is his</hi> Coronation-day the day of his eſpouſals, and the day of the gladnes of his heart<note n="*" place="margin">
+                  <hi>Cant.</hi> 2.11.</note> O come then and let us be glad and rejoyce in it with him, and let the voyce of joy and rejoycing be heard in the Tabernacles of the righteous.</p>
+            <p>
+               <hi>Is not this</hi> the great Mar<g ref="char:EOLhyphen"/>ket day of our ſouls, <hi>wherein there is</hi> Proclamation <hi>made,</hi>
+               <pb facs="tcp:171725:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:171725:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:171725:9"/> Ho every one that thirſteth, come unto the waters of life? <hi>And he ſaith moreover,</hi> Hearken diligently unto me, and eat ye that which is good, and let your ſoul delight it ſelf in fatneſs, incline your ear, come unto me, hear and your ſouls ſhall live; And I will make an everlaſting Covenant with you, even the ſure Mer<g ref="char:EOLhyphen"/>cies of David<note n="*" place="margin">
+                  <hi>Iſa.</hi> 55.1, — 3.</note>. And the ſpi<g ref="char:EOLhyphen"/>rit and the Bride ſay come, and he that heareth ſaith come, and let him that is a thirſt come; And whoſoever will, let him take of the Well of the water of life freely<note n="*" place="margin">
+                  <hi>Rev.</hi> 22.17.</note>. <hi>O how ſweet are the</hi> Chriſtal ſtreams <hi>of the</hi> Chriſtian Brooks, <hi>which pro<g ref="char:EOLhyphen"/>ceed from</hi> the Throne of God
+<pb facs="tcp:171725:9"/> and of the Lamb! <hi>And how pleaſant and pretious is the</hi> Tree of Life on either ſide the River <hi>of</hi> Righteouſneſs, the meat where of is good for food, and the leaves thereof for Medicine!</p>
+            <p>Bleſſed are thoſe that keep his Commandments, that they may have right to the Tree of life, and enter in through the Gates into the Holy City.</p>
+            <p>Remember <hi>therefore</hi> the Sabbath day to keep it holy, as the Lord hath Commanded, <hi>particularly to conſider the</hi> time <hi>of celebration thereof, which is</hi> from even to even.</p>
+            <p>
+               <hi>Now that you may not forget duly to prepare your ſelves againſt the</hi> night of our
+<pb facs="tcp:171725:10"/> holy ſolemnity, <hi>I have publiſh<g ref="char:EOLhyphen"/>ed this following</hi> Epiſtle, <hi>to prove</hi> that the Evening and the Morning is the firſt day from the Creation, <hi>and that the</hi> Sabbath <hi>or</hi> Lords day, <hi>is to be kept (not from</hi> Morning <hi>to</hi> Morning, <hi>nor from</hi> Mid<g ref="char:EOLhyphen"/>night <hi>to</hi> Midnight <hi>but</hi>) from Even to Even.</p>
+            <p>Thus ſaith Jehovah, If you can break my Covenant of the day, <hi>&amp;</hi> my Covnant of the night, <hi>&amp;</hi> that there ſhould not be day <hi>and</hi> night in their ſeaſon; then may alſo my Covenant be bro<g ref="char:EOLhyphen"/>ken with David my ſervant, that he ſhould not have a Son to Reign upon his Throne, <hi>and</hi> with the Levitos the Prieſts my Miniſters.<note n="*" place="margin">
+                  <hi>Jer.</hi> 33.20.21.</note>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:171725:10"/>
+            <head>
+               <hi>Now here followeth</hi> the Letter, which was Written at the earneſt requeſt of a friend, for his ſatisfaction concerning the beginning of the Sabbath-day</head>
+            <opener>
+               <salute>Loving friend,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Underſtand by an old acquaintance, and loving friend of mine, that you have a great deſire to receive ſome Grounds <hi>from me in Writing, wherefore I keep the Lords Day from Evening to Evening; and not hold it from Mid-night to Mid-night.</hi> Truly at the firſt I thought it moſt meet, that ſeeing we are
+<pb n="2" facs="tcp:171725:11"/> both in one <hi>Town,</hi> and can freely and frequently come to talk face to face, it were better ſo to do, then to write unto you with ink and pen; but further con<g ref="char:EOLhyphen"/>ſidering, what my friend had told me, that you could better declare your mind in <hi>writing,</hi> then by <hi>ſpeech</hi> (though I doubt not, but that in diſcourſe you are able to give reaſon, and to receive reaſon) I therefore have thought it not amiſs, to ſpare ſome time from my preſſing urgent occaſions, to ſatisfy your deſire by writing, conſidering the ſmallneſs of your requeſt, and how that if this writing ſa<g ref="char:EOLhyphen"/>tisfy you, you may ſend it unto your friends in the Country for their ſatisfaction, ſeeing we can<g ref="char:EOLhyphen"/>not ſpeak with them by word of mouth; but if theſe lines which I ſhall here preſent you
+<pb n="3" facs="tcp:171725:11"/> withall, ſatisfy you not, never<g ref="char:EOLhyphen"/>theleſs it will ſerve as an en<g ref="char:EOLhyphen"/>trance into more fuller diſcourſe between us upon this ſubject.</p>
+            <p>And now to the matter in hand.</p>
+            <p>It is good to mind, what we are to underſtand by <hi>[a] day</hi> in this preſent controver<g ref="char:EOLhyphen"/>ſie, and that will lead us to <hi>the day.</hi>
+            </p>
+            <p>By <hi>a day</hi> in the Scriptures we are to underſtand, either <hi>a day of twelve hours,</hi> or <hi>a large day of twenty four hours.</hi>
+            </p>
+            <p>
+               <hi>A day of twelve hours Chriſt</hi> ſpeaketh of when he ſaith,<note n="*" place="margin">
+                  <hi>John</hi> 11.9.</note> 
+               <hi>Are there not twelve hours in the day?</hi> And ſo he ſheweth by the <hi>Parable of the vineyard,</hi>
+               <note n="*" place="margin">
+                  <hi>Matt.</hi> 20. <hi>v.</hi> 1. to the 13.</note> where thoſe that were <hi>hired at the eleventh hour, wrought one hour,</hi> and then the day was at an end;
+<pb n="4" facs="tcp:171725:12"/> therefore as <hi>there are twelve hours in the day:</hi> ſo likewiſe-<hi>there are twelve hours in the night.</hi> And ſo it appeareth, that the day and night are both of an equal length: and ſo it was when there was neither <hi>Sun</hi> nor <hi>Moon;</hi> for the <hi>week</hi> con<g ref="char:EOLhyphen"/>ſiſteth of <hi>ſeven parts,</hi> and every of thoſe parts is <hi>twenty-four hours a piece,</hi> none being longer or ſhorter then other, &amp; this may appear by <hi>Exodus</hi>
+               <note n="*" place="margin">
+                  <hi>Exod.</hi> 20.9.10.11.</note> where it is ſaid, <hi>Six days ſhalt thou labour, and do all that thou haſt to do: and the ſeventh day is a Sabbath, &amp;c.</hi> And when the <hi>ſeventh day</hi> ended then the <hi>week</hi> began a<g ref="char:EOLhyphen"/>gain, as may appear by <hi>Leviticus,</hi>
+               <note n="*" place="margin">
+                  <hi>Levit.</hi> 23.15.16.</note> where it is written, <hi>And ye ſhal Count unto you from the morrow after the Sabbath from the day that ye brought the ſheaf of the Wave-Offering. Seven Sabbaths
+<pb n="5" facs="tcp:171725:12"/> ſhall be compleat, even unto the morrow after the ſeventh Sabbath ſhall ye number fifty days, &amp;c?</hi> And in Deuteronomy, <hi>theſe are called ſeven weeks,</hi>
+               <note n="*" place="margin">
+                  <hi>Devt.</hi> 16.9.10.</note>
+            </p>
+            <p>
+               <hi>The night (in the</hi> Scriptures) <hi>as it conſiſteth of twelve hours equal with the day, ſo it is divided into four equal parts,</hi>
+               <note place="margin">See</note> 
+               <hi>which parts are called four watches,</hi>
+               <note n="*" place="margin">
+                  <hi>Luke</hi> 12.38. &amp; <hi>Matt.</hi> 14.25.</note> 
+               <hi>In the fourth watch of the night</hi> Jeſus <hi>walked on the Sea.</hi>
+            </p>
+            <p>The <hi>firſt watch</hi> of the <hi>night beginneth when the</hi> firſt hour <hi>of the night</hi> beginneth (even at the time which is commonly cal<g ref="char:EOLhyphen"/>led <hi>ſix a clock at night</hi>) and is <hi>the evening-watch, and laſteth three houres.</hi>
+            </p>
+            <p>
+               <hi>The ſecond watch</hi> is from the end of the <hi>firſt watch,</hi> and <hi>laſteth till midnight,</hi> or the <hi>ſixth hour</hi> of the <hi>night,</hi> (which is com<g ref="char:EOLhyphen"/>monly called <hi>twelve a clock.</hi>
+            </p>
+            <pb n="6" facs="tcp:171725:13"/>
+            <p>
+               <hi>The third watch</hi> of the <hi>night</hi> is from the end of the <hi>ſecond watch,</hi> &amp; laſteth alſo <hi>three hours,</hi> even till the <hi>ninth hour</hi> of the <hi>night.</hi>
+            </p>
+            <p>And then at the end thereof beginneth the <hi>fourth watch,</hi> and laſteth <hi>three hours,</hi> even <hi>till the firſt houre of the day,</hi> (which is commonly called <hi>ſix a clock in the morning</hi>) and is called <hi>the morning watch. In the morning watch</hi> it is ſaid,<note n="*" place="margin">
+                  <hi>Exod.</hi> 13.24.</note> 
+               <hi>The Lord looked unto the Hoſt of the Egyptians, through the pillar of fire, and of the Cloud, and troubled the Hoſt of the Egyptians:</hi> now <hi>the Pillar of fire</hi> was <hi>to lead them by night.</hi> Therefore at this time when <hi>God looked through the Pillar of fire,</hi> though it was <hi>the morning watch,</hi> yet it was part of the <hi>night,</hi> even of the <hi>twelve hours.</hi> See alſo in <hi>Mark</hi>
+               <note n="*" place="margin">
+                  <hi>Mark</hi> 13.35.36.</note> where <hi>Jeſus Chriſt</hi> di<g ref="char:EOLhyphen"/>videth
+<pb n="7" facs="tcp:171725:13"/> the <hi>night</hi> into <hi>four watches,</hi> ſaying thus: <hi>Watch ye therefore, for ye know not when the Maſter of the houſe cometh, at even, or at Midnight, or at the Cock-crowing, or in the (dawning</hi>
+               <note n="*" place="margin">ſome Tranſla<g ref="char:EOLhyphen"/>tions ſay in the dawning, Other ſaith, in the mor<g ref="char:EOLhyphen"/>ning.</note> 
+               <hi>or) morning: leaſt coming ſud<g ref="char:EOLhyphen"/>dainly he find you ſleeping.</hi> Now in a temporal reſpect, <hi>the night is made for Man to ſleep in,</hi> and <hi>thoſe that ſleep, ſleep in the night;</hi> But in <hi>extraordinary caſes,</hi> men are to <hi>watch,</hi> unto which <hi>Jeſus Chriſt</hi> alludeth when he ſaith <hi>watch — leſt when he cometh he find you ſleeping.</hi>
+            </p>
+            <p>Moreover I conceive, that as the latter part of the <hi>Night</hi> (or <hi>Evening</hi>) is called <hi>Morning,</hi> ſo the latter part of the <hi>Day,</hi> (or <hi>Morning</hi>) is called <hi>Evening,</hi> be<g ref="char:EOLhyphen"/>cauſe it is next to it, and next be<g ref="char:EOLhyphen"/>fore it. So it was Commanded, that <hi>the Paſſe-over ſhould be ſlain
+<pb n="8" facs="tcp:171725:14"/> between the two Evenings,</hi>
+               <note n="*" place="margin">
+                  <hi>Exod.</hi> 12.6.</note> That is to ſay in the <hi>leſſer Evening,</hi> before the <hi>twelfth hour of the day,</hi> which was the beginning of the <hi>Evening</hi> for the next <hi>day,</hi> and they were <hi>to roſt it, &amp; eat it at night, and not to let ought of it remain untill the morning; but that which remained till morning they were to burn it with fire,</hi>
+               <note n="*" place="margin">
+                  <hi>v.</hi> 10</note> So that <hi>there is two Evenings to one day,</hi> there is <hi>the greater Evening, and the leſſer Evening. The greater Evening</hi> is the <hi>night,</hi>
+               <note n="*" place="margin">
+                  <hi>Job.</hi> 7.3.4.</note> 
+               <hi>before the day it ſelf.</hi> The <hi>leſſer Evening</hi> is <hi>the latter part of the day it ſelf.</hi> As for <hi>morning,</hi> there is the <hi>morning watch,</hi> and the <hi>morning it ſelf,</hi> And <hi>the large day conſiſteth of twenty four hours, e<g ref="char:EOLhyphen"/>ven a night and a day,</hi> (as hath been ſhewed) <hi>or a night day as Paul</hi> ſpeaketh.<note n="*" place="margin">2 <hi>Cor.</hi> 11.25.</note>
+            </p>
+            <p>Now theſe things being conſi<g ref="char:EOLhyphen"/>dered
+<pb n="9" facs="tcp:171725:14"/> as a preparation whereby you may underſtand how I reckon the <hi>day,</hi> branching it out in the ſeveral parts thereof: I come now to give you ſeveral grounds for my practiſe of <hi>keep<g ref="char:EOLhyphen"/>ing the Lords day from Evening to Evening.</hi>
+            </p>
+            <p>THe firſt is, becauſe that <hi>God from the Creation, ordered the Evening to go before the Morning,</hi> before ever the <hi>Sun</hi> or <hi>Moon</hi> were Created. Its ſaid <hi>the Even<g ref="char:EOLhyphen"/>ing and the Morning was the f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſt day,</hi>
+               <note n="*" place="margin">
+                  <hi>Gen.</hi> 1.5.</note> 
+               <hi>The Evening and the Morning was the ſecond day.</hi>
+               <note n="*" place="margin">v.</note> 
+               <hi>The Evening and the Morning was the third day.</hi>
+               <note n="*" place="margin">v.</note> And the ſame Order followeth throughout the whole <hi>Week.</hi>
+            </p>
+            <p>After <hi>the Sun was made to rule the day, and the Moon to rule the night, the Evening and the Morn<g ref="char:EOLhyphen"/>ing was the fourth day,</hi>
+               <note n="*" place="margin">v. 19</note> where
+<pb n="10" facs="tcp:171725:15"/> we ſee, <hi>The Evening is placed be<g ref="char:EOLhyphen"/>fore the Morning,</hi> as it followed the <hi>fifth and ſixth day,</hi>
+               <note n="*" place="margin">v. 23.1.</note> And the Prophet <hi>David</hi> ſetting forth <hi>the Order of Gods Creation,</hi> ſaith in the hundred and fourth Pſalm,<note n="*" place="margin">
+                  <hi>Pſalm.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>04.19. — 24.</note> 
+               <hi>He appointed the Moon for ſeaſons, the Sun knoweth his going down, Thou makeſt darkneſs, and it is night, wherein all the Beaſts of the Forreſt do creep forth. The young Lyons roar after their prey, and ſeek their meat from God The Sun ariſeth, they gather themſelves together, and lay them down in their Dens. Man goeth forth unto his work, and to his labour until the Evening.</hi> Wherein we may ſee, <hi>he placeth the night before the day, in reſpect of time,</hi> for the <hi>darkneſs</hi> which <hi>was called night was before the light,</hi> which <hi>was, called day:</hi> And <hi>God cauſed the light to ſhine out of darkneſs:</hi> unto which the <hi>Apoſtle</hi> alludeth or<g ref="char:EOLhyphen"/>derly
+<pb n="11" facs="tcp:171725:15"/> in his ſpiritual applications to the <hi>Corinthians,</hi> ſaying, <hi>God who Commanded the light to ſhine out of darkneſs, hath ſhined in our hearts, giving the light of the knowledge of the Glory of God, in the face of Jeſus Chriſt,</hi>
+               <note n="*" place="margin">2 <hi>Cor.</hi> 4.6.</note>
+            </p>
+            <p>MY ſecond ground, why I keep <hi>the day which God hath made,</hi>
+               <note n="*" place="margin">
+                  <hi>Pſa.</hi> 118.24</note> 
+               <hi>holy from Even to Even,</hi> is <hi>from Gods inſtitution</hi> and <hi>Com<g ref="char:EOLhyphen"/>mandement</hi> unto <hi>Iſrael,</hi> ſaying in <hi>Leviticus,</hi>
+               <note n="*" place="margin">
+                  <hi>Levit</hi> 23.32.</note> 
+               <hi>From Even to Even ſhall ye reſt your Sabbath.</hi> And that <hi>Sabbath</hi> which <hi>God</hi> Commands to be <hi>ſanctified,</hi> is <hi>a large day of twenty four houres,</hi> (the <hi>night</hi> going before the <hi>day</hi> of <hi>twelve hours,</hi> as is n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted be<g ref="char:EOLhyphen"/>fore) <hi>which time is the ſeventh part of the week:</hi> And as we are not to take <hi>part of one day,</hi> to make up <hi>another day:</hi> ſo we are not to take <hi>part of one week,</hi> to
+<pb n="12" facs="tcp:171725:16"/> make up <hi>another week:</hi> for the days and weeks remain as from the <hi>Creation.</hi> The <hi>beginning of the day begins with the Evening:</hi> therefore <hi>the beginning of the week begins with the Evening</hi> alſo, and ſo <hi>from Even to Even the Jews were Commanded to ce<g ref="char:EOLhyphen"/>lebrate their Sabbath.</hi> And this was well known to the <hi>Jewes,</hi> which made them, when <hi>Chriſt</hi> was <hi>crucified upon the preparation day before their Sabbath,</hi> to make ſuch <hi>haſt, becauſe that the Sabbath was coming on;</hi> for the <hi>ninth hour was come,</hi> before <hi>Jeſus bowed the Head, and gave up the Ghoſt.</hi>
+               <note n="*" place="margin">
+                  <hi>John.</hi> 9.30. — 34.</note> 
+               <hi>The Jews therefore, becauſe it was the preparation, that the bodies ſhould not remaine upon the Croſs on the Sabbath-day, (for that Sab<g ref="char:EOLhyphen"/>bath-day was a high day) beſought</hi> Pilate <hi>that their legs might be broken, and that they might be
+<pb n="13" facs="tcp:171725:16"/> taken away. Then came the Soul<g ref="char:EOLhyphen"/>diers, and brake the legs of the firſt, and of the other that was crucified with him; But when they came to</hi> Jeſus, <hi>and ſaw that he was dead already, they brake not his legs,</hi> &amp;c.</p>
+            <p>Now if the <hi>Sabbath,</hi> had not <hi>begun</hi> at <hi>Evening,</hi> but at <hi>Mid<g ref="char:EOLhyphen"/>night,</hi> or <hi>Morning,</hi> in all pro<g ref="char:EOLhyphen"/>bability they would not have made ſuch haſte to <hi>break the legs</hi> of them that were <hi>crucified,</hi> wherby they might dy ſpeedily, and ſo be taken away immediat<g ref="char:EOLhyphen"/>ly, ſeeing that then they would have had a long time, even till <hi>midnight,</hi> or <hi>day</hi> to <hi>bury</hi> them in, and eſpecially conſidering, that <hi>Jeſus</hi> was dead already, and it was probable, that the other two would not have lived long after him; but that there might have been time enough to have <hi>buried</hi>
+               <pb n="14" facs="tcp:171725:17"/> them before <hi>midnight.</hi> And ano<g ref="char:EOLhyphen"/>ther reaſon which confirmeth it, that <hi>the Jewes then began their Sabbath at Evening, appeareth from Johns Teſtimony</hi> which ſaith,<note n="*" place="margin">v. 41.42.</note> That <hi>in the place where he was crucified, there was a Garden, and in the Garden a new Sepulcher, wherein was never man yet layed. There laid they</hi> Jeſus <hi>therefore, becauſe of the</hi> Jewes <hi>preparation day, for the Sepulcher was nigh at hand.</hi> Now the <hi>Lords day be<g ref="char:EOLhyphen"/>gan</hi> when the <hi>Jewes Sabbath end<g ref="char:EOLhyphen"/>ed:</hi> But the <hi>ſeventh day Sab<g ref="char:EOLhyphen"/>bath began at Even, and ended at even, there<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore the Lords day Sab<g ref="char:EOLhyphen"/>both beginneth at even,</hi> and is to be <hi>celebrated from Even to Even.</hi>
+            </p>
+            <p>MY third ground, why I be<g ref="char:EOLhyphen"/>gin this <hi>Honourable day,</hi> at <hi>Even,</hi> and ſo keep it <hi>from Even to Even,</hi> is from the practiſe of the <hi>Godly,</hi> and particularly of <hi>Nehemiah,</hi>
+               <note n="*" place="margin">
+                  <hi>Neh.</hi> 13.19.</note> which teſtifieth
+<pb n="15" facs="tcp:171725:17"/> ſaying, <hi>and it came to paſs, that when the Gates of</hi> Jeruſalem <hi>be<g ref="char:EOLhyphen"/>gan to be dark before the Sabbath, I Commanded that the Gates ſhould be ſhut, and charged that they ſhould not be opened till after the Sabbath, and ſome of my Ser<g ref="char:EOLhyphen"/>vants, ſet I at the Gates, that there ſhould no burthen be brought in on the Sabbath-day, So the Merchants and ſellers of all kinds of Wares lodged without</hi> Jeruſa<g ref="char:EOLhyphen"/>lem,<note n="*" place="margin">v. 20.21.</note> 
+               <hi>once or twice, then I teſti<g ref="char:EOLhyphen"/>fied againſt them, and ſaid unto them, why lodge ye before the Walls,</hi> &amp;c.</p>
+            <p>MY fourth ground, why I keep <hi>the day from Even to Even, is</hi> from the conſidera<g ref="char:EOLhyphen"/>tion of the <hi>Death, Burial, and Reſurrection of Jeſus Chriſt,</hi> who declared, that as <hi>Jonas was</hi> 3 <hi>days and</hi> 3 <hi>nights in the Whales Belly, ſo ſhould the Sun of man be</hi> 3 <hi>days &amp;</hi>
+               <pb n="16" facs="tcp:171725:18"/> 3. <hi>nights in the heart of the Earth.</hi>
+               <note n="*" place="margin">
+                  <hi>Mat.</hi> 12.40.</note> Now <hi>Jeſus Chriſt</hi> was <hi>crucified on the ſixth day of the week,</hi> and <hi>died after the ninth hour was come, and was buried before the twelfth hour of the day, and lay all night, and the next day, and the next night,</hi> ſo that of <hi>nights,</hi> there is <hi>but two</hi> at the utmoſt. And if he ſhould have layn <hi>another night,</hi> he could not have <hi>riſen the third day, for then it would have been the fourth day.</hi> But the <hi>Scripture</hi> declareth, and we are bound to believe, that <hi>he roſe again the third day, which was the firſt day of the week;</hi> and there<g ref="char:EOLhyphen"/>fore in the <hi>Reſurrection</hi> of <hi>Jeſus Chriſt,</hi> we are to account the <hi>days,</hi> as it was from the <hi>Creation,</hi> the <hi>Evening and the Morning,</hi> is <hi>a large day of twenty fower hours,</hi> which being conſidered together, <hi>a part of that twenty
+<pb n="17" facs="tcp:171725:18"/> four hours, is to be taken for the whole twenty four houres;</hi> but if they ſhould be ſevered, and reckoned by the <hi>twelve hours,</hi> then there muſt be <hi>ſix times twelve hours</hi> conſidered, and out of every one of the <hi>twelve houres,</hi> we are to take a part, or elſe we cannot make up the num<g ref="char:EOLhyphen"/>ber of <hi>three diſtinct days,</hi> and <hi>three diſtinct nights. And though we ſhould take a part of one di<g ref="char:EOLhyphen"/>ſtinct day,</hi> &amp; <hi>of one diſtinct night,</hi> for the whole <hi>day</hi> and <hi>night</hi> to make up the number: yet it muſt of neceſſity, be <hi>above four times twelve hours:</hi> that is, <hi>forty eight houres,</hi> or <hi>elſe a day and a night of the time will be wholly excluded:</hi> But <hi>Chriſt</hi> did not lie in the grave <hi>forty hours,</hi> he lay but a ſmall time on the <hi>firſt day</hi> of his <hi>Burial,</hi> which <hi>was the ſixth day of the week;</hi> for pre<g ref="char:EOLhyphen"/>ſently
+<pb n="18" facs="tcp:171725:19"/> the <hi>Evening</hi> came, which <hi>night</hi> he lay in the <hi>grave,</hi> and <hi>all the next day,</hi> which was <hi>the Jews Sabbath.</hi> And <hi>Mark</hi> ſaith,<note n="*" place="margin">
+                  <hi>Mark</hi> 16.1.3.</note> That <hi>when the Sabbath was paſt, Mary Magdalen, and Mary the Mother of</hi> James, <hi>and</hi> Solome <hi>had brought ſweet pices, that they might come and anoint him. And very early in the morn<g ref="char:EOLhyphen"/>ing, the firſt day of the week, they came unto the Sepulcher, at the riſing of the Sun: and Chriſt was riſen before,</hi>
+               <note n="*" place="margin">v. 6.</note> 
+               <hi>and appeared firſt to</hi> Mary Magdalen.<note n="*" place="margin">v. 9.</note> And <hi>Luke</hi> ſaith, <hi>it was very early in the morning that they came to the Se<g ref="char:EOLhyphen"/>pulcher, and Chriſt was riſen be<g ref="char:EOLhyphen"/>fore.</hi>
+               <note n="*" place="margin">
+                  <hi>Luke.</hi> 24.1.6.</note> And <hi>Matthew</hi> ſaith,<note n="*" place="margin">
+                  <hi>Mat.</hi> 28.1, 2, 3, 4, 5, 6.</note> 
+               <hi>That as it began to dawn [towards] the firſt day of the week, came</hi> Mary Magdalen <hi>and the other</hi> Mary, <hi>to ſee the Sepul<g ref="char:EOLhyphen"/>cher, and behold, there had been a
+<pb n="19" facs="tcp:171725:19"/> great Earth-quake: for the Angel of the Lord deſcended from Hea<g ref="char:EOLhyphen"/>ven, and came and rolled back the ſtone from the dore, and ſate upon it. His countenance was like lightning, and his Rayment white as Snow, and for fear of him the Keepers did ſhake, and became as dead men. And the Angel anſwered and ſaid unto the Women, fear not ye; for I know that ye ſeek Jeſus which was crucified, He is not here: for he is riſen, as he ſaid. And as they went to tell his Diſciples, behold</hi> Jeſus <hi>met them, ſaying, All Hayle, and they came, and held him by the feet, and worſhipped him.</hi>
+               <note n="*" place="margin">v. 9.</note> 
+               <hi>Now when he was riſen early the firſt day of the week, he appeared firſt to</hi> Mary Magdalen, <hi>and ſhe went out and told them that had been with him, as they mourned and wept.</hi>
+               <note n="*" place="margin">
+                  <hi>Mark</hi> 16.9. — 11.</note> 
+               <hi>And they when they had heard that he
+<pb n="20" facs="tcp:171725:20"/> was alive, and had been ſeen of her, believed not. Now</hi> John <hi>ſhew<g ref="char:EOLhyphen"/>eth the manner how he appeared to</hi> Mary Magdalen, <hi>ſaying,</hi>
+               <note n="*" place="margin">
+                  <hi>Ioh.</hi> 20.1. — 17.</note> 
+               <hi>The firſt day of the week cometh</hi> Mary Magdalen <hi>early, when it was yet dark unto the Sepulcher, and ſeeth the ſtone taken away from the Sepulcher, then ſhe runneth and cometh to</hi> Simon Peter, <hi>and to the other Diſciple, whom</hi> Jeſus <hi>lo<g ref="char:EOLhyphen"/>ved, and ſaith unto them, they have taken away the Lord out of the Se<g ref="char:EOLhyphen"/>pulcher, and we know not where they have laid him.</hi> Peter <hi>there<g ref="char:EOLhyphen"/>fore went forth, and that other Diſciple, and came to the Se<g ref="char:EOLhyphen"/>pulcher, ſo they ran both together, and the other Diſciple did out-run</hi> Peter, <hi>&amp; came firſt to the Sepul<g ref="char:EOLhyphen"/>cher. And he ſtooping down, and looking in, ſaw the linnen Clothes lying, yet went he not in. Then cometh</hi> Simon Peter, <hi>following
+<pb n="21" facs="tcp:171725:20"/> him, and went into the Sepulcher, and ſeeth the linnen Clothes lye. And the Napkin that was about his head, not lying with the linnen Clothes, but wrapped together in a place by it ſelf. Then went in alſo that other Diſciple, which came firſt to the Sepulcher, and he ſaw and believed: for as yet they knew not the Scriptures, that he muſt riſe again from the Dead. Then the Diſciples went away a<g ref="char:EOLhyphen"/>gain unto their own home: but</hi> Mary <hi>ſtood without at the Sepul<g ref="char:EOLhyphen"/>cher weeping. And as ſhe wept, ſhe ſtooped down, and looked into the Sepulcher; and ſeeth two</hi> Angels <hi>in white, ſitting the one at the head, and the other at the feet, where the Body of</hi> Jeſus <hi>had layn, and they ſay unto her, woman, why weepeſt thou? ſhe ſaith unto them, becauſe they have taken away my Lord, and I know not where
+<pb n="22" facs="tcp:171725:21"/> they have laid him. And when ſhe had thus ſaid, ſhe turned her ſelf back, and ſaw</hi> Jeſus <hi>ſtanding, and knew not that it was</hi> Jeſus. Jeſus <hi>ſaith unto her, woman, why weepeſt thou? whom ſeekeſt thou? ſhe ſuppo<g ref="char:EOLhyphen"/>ſing him to be the</hi> Gardner, <hi>ſaith unto him, Sir, if thou have born him hence, tell me where thou haſt laid him, and I will take him away.</hi> Jeſus <hi>ſaith unto her,</hi> Mary, <hi>ſhe turned her ſelf, and ſaith unto him,</hi> Rabboni, <hi>which is to ſay Maſter.</hi> Jeſus <hi>ſaith unto her touch me not; for I am not yet aſcended to my</hi> Father; <hi>but go to my Bre<g ref="char:EOLhyphen"/>thren and ſay unto them, I aſcend unto my</hi> Father, <hi>and your</hi> Fa<g ref="char:EOLhyphen"/>ther, <hi>and to my</hi> God, <hi>and your</hi> God.</p>
+            <p>Now all theſe things, were before he <hi>met the women,</hi> and that <hi>they caught him by the feet.</hi> And <hi>before</hi> Mary Magdalen <hi>was
+<pb n="23" facs="tcp:171725:21"/> at the Sepulcher.</hi> Jeſus Chriſt <hi>was riſen, while it was yet dark, even [towards] day:</hi> And there<g ref="char:EOLhyphen"/>fore ſeeing <hi>Jeſus Chriſt roſe the third day, and not the ſecond day. The night before the day-light, muſt be concluded to be part of the large natural day,</hi> elſe we ſhall deſtroy our <hi>Article</hi> of our <hi>Faith,</hi> That <hi>Chriſt roſe again the third Day.</hi>
+            </p>
+            <p>Divers other <hi>ſcriptures</hi> might be alleadged, as that of <hi>Pilates wifes Dream</hi> about <hi>Chriſt,</hi> the <hi>firſt (Day) of the three,</hi>
+               <note n="*" place="margin">
+                  <hi>Mat.</hi> 27.19. <hi>compa<g ref="char:EOLhyphen"/>red with Job</hi> 33.14. — 17.</note> &amp; from that which the <hi>chief Prieſts</hi> and the <hi>Phariſees</hi> did <hi>upon the pre<g ref="char:EOLhyphen"/>paration day, when they came to</hi> Pilate, <hi>and would have the Sepulcher kept until the third day, Job leaſt his Diſciples ſhould come by night, and ſteal him away, and ſay unto the people, he is riſen from the Dead</hi>
+               <note n="*" place="margin">
+                  <hi>Mat.</hi> 27.62. — 64.</note> And alſo how <hi>they gave larg mony unto the Souldiers</hi> —
+<pb n="24" facs="tcp:171725:22"/>
+               <note n="*" place="margin">
+                  <hi>Mat.</hi> 18.11. — 14.</note> 
+               <hi>ſaying, ſay ye, His Diſciples came by night and ſtole him away while we ſlept. And if this come to the Governours eares we wil perſwade him, and ſecure you.</hi> But this is ſufficient, not only to <hi>overthrow the opinion of thoſe that would ex<g ref="char:EOLhyphen"/>clude the night, as if it were no part of the Lords day or Sabbath, as if they might follow their Trades in the night of our holy ſolemnity, ſo they do but keep the fourteenth part of the week not minding, that the night is part of the large natu<g ref="char:EOLhyphen"/>ral day of</hi> 24. <hi>hours, which is the ſeventh part of the week.</hi> As alſo it <hi>reproveth thoſe, that begin not to reſt till the morning, and hold it from morning to morning,</hi> thereby <hi>altering from the Creation;</hi> for from the <hi>Creation,</hi> the <hi>Evening was before the Morning.</hi> And <hi>God ſaid</hi> not, from <hi>morning</hi> to <hi>morning,</hi> but from <hi>Even to Even * ſhall you reſt your Sab<g ref="char:EOLhyphen"/>bath.</hi>
+            </p>
+            <gap reason="missing" extent="24 pages">
+               <desc>〈24 pages missing〉</desc>
+            </gap>
+         </div>
+         <div type="treatise">
+            <pb n="49" facs="tcp:171725:22"/>
+            <div n="4" type="chapter">
+               <p>tell what ſongs and ſounds will beſt pleaſe the company to draw their minds from better exerciſe, and having no purpoſe to cure a<g ref="char:EOLhyphen"/>ny, but rather to kill all, he will not work by contraries, he hath an intention to gain by his Trade, and therefore he will not croſſe the expectation of any which doe ſuit to his purpoſe, but rather ſo ſoundeth, that he may ſeem ſweet to all: Therefore to the proud he bringeth ſome harmonious ſounds of popular praiſe, which like a load-ſtone draweth the vaine-glorious to hunt ſo much more earneſtly to augment the eccho of ſuch vain windy reputa<g ref="char:EOLhyphen"/>tion.</p>
+               <p>Thus he befooleth the fooliſh with the voice of flatterers; to the greedy he hath the cry of great abundance, the words of
+<pb n="50" facs="tcp:171725:23"/> wealth, and the glory of gaine, which as the under-ſong of all their intentions, ſpurreth them forward to forget their true tranquillity; for muſicall minds he hath the pleaſure of artificiall concord, and for carnall quarrel<g ref="char:EOLhyphen"/>lers and rangling Lawyers, he hath that mad muſick of diſcord. And thus hath he a ſtring and a ſtraine for every ſinfull and ſenſuall ſin<g ref="char:EOLhyphen"/>ners eare.</p>
+               <p>Our third ſenſe is ſmelling, the object whereof is ſavour, and al<g ref="char:EOLhyphen"/>though Satan doth not gaine ſo much [in my opinion] by abu<g ref="char:EOLhyphen"/>ſing this ſenſe, nor ſo much pre<g ref="char:EOLhyphen"/>vaile by the variety of this object, yet doth he exerciſe the minds of many in this perfumed airy ob<g ref="char:EOLhyphen"/>ject of ſmelling, the truth where<g ref="char:EOLhyphen"/>of appeareth in this ſtinking ſtate of many perfumed fools, lechers,
+<pb n="51" facs="tcp:171725:23"/> and luxurious, for the moſt part, of both Sexes. <hi>Cato</hi> would diſ<g ref="char:EOLhyphen"/>miſſe <hi>Publius</hi> of his allie, and not ſuffer him to be any longer Cap<g ref="char:EOLhyphen"/>tain of the Pannomian warre, be<g ref="char:EOLhyphen"/>cauſe [quoth he] <hi>I never ſaw him returne wounded from the war, but I have ſeen him walk up and downe the City of Rome perfumed. Licur<g ref="char:EOLhyphen"/>gus</hi> King of Lacedemonia, ſaw well the evill of ſuch perfuming, when he baniſhed from Lacede<g ref="char:EOLhyphen"/>monia all ſtrange wares. It is true, that odo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ferous ſmells are wholſome, and ſometimes to pu<g ref="char:EOLhyphen"/>rifie the <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e, is to preſerve health, and thus to relieve nature by our ſenſe were not to live ſenſuall: this were to uſe our ſenſe, and to make it ſerviceable to ſoule and body.</p>
+               <p>But the Church of God hath an Allegoricall ſavor in the noſtril
+<pb n="52" facs="tcp:171725:24"/> of her ſoule, which maketh her love her beloved, and ſeek him ſincerely, which ſent is cold in the noſtrills of ſenſuall ſinners.</p>
+               <p>Fourthly, let us conſider how Satan doth exerciſe his skill in our taſting, the object whereof is ſweet or ſowre, the Organ of which is our tongue, and ſurely if he prevaile leſſe by the object of our ſmelling, he doubleth, yea, he trebleth his advantage in this of our taſting; for of all mans five ſenſes none doth more de<g ref="char:EOLhyphen"/>ceive him, and as it were twitch him more to a ſenſuall and ſin<g ref="char:EOLhyphen"/>full life, then this of his taſting; the reaſon whereof is partly in re<g ref="char:EOLhyphen"/>ſpect of the common exerciſe of taſting, and partly in reſpect of the [almoſt] infiniteneſſe of the objects of our taſt; nor are the objects of our taſt ſo many in the
+<pb n="53" facs="tcp:171725:24"/> ſimple quality thereof, as it is va<g ref="char:EOLhyphen"/>riable in the manner of compoun<g ref="char:EOLhyphen"/>ding; for it is hard to find any dainty diſh which our dainty Dames have not ſeverall and dif<g ref="char:EOLhyphen"/>ferent manners of preparing for, thereby to make it more pleaſant to the pallate, and as it were to raviſh our taſting ſo much the more; neither is the enemy neg<g ref="char:EOLhyphen"/>ligent to take the advantage of this our taſting, thereby to hinder our happineſſe: in ſo much, that whereas in the Scriptures we read of a certaine man that fared de<g ref="char:EOLhyphen"/>liciouſly every day, as though there had been no more but one ſo ill diſpoſed: in our times, la<g ref="char:EOLhyphen"/>mentable experience giveth us cauſe to relate certaine men, yea, certain women, yea, certain hun<g ref="char:EOLhyphen"/>dreds, yea, certaine thouſands of both Sexes, that fare deliciouſ<g ref="char:EOLhyphen"/>ly
+<pb n="54" facs="tcp:171725:25"/> every day, yea, voluptuouſly and ſuperlatively, ſuperfluouſly, every day, yea, twice every day, if no more. We read of one <hi>Eſau,</hi> which ſold his birth-right for to pleaſe his pallate with the taſt of <hi>Jacobs</hi> pottage: But our age may record millions of ſuch mon<g ref="char:EOLhyphen"/>ſters, which ſell their Patrimony to maintaine their taſt, neither can they be ſatisfied when they have waſted their own eſtates, and then humbly [with the Prodigall] go eat husks with the Swine. But having waſted their wealth, they make triall of their wits; ſome like <hi>Aristippus,</hi> flatter and faine <hi>Dio<g ref="char:EOLhyphen"/>niſius</hi> or any great man like Para<g ref="char:EOLhyphen"/>ſites, till they juſtly merit that Sir<g ref="char:EOLhyphen"/>name, or worſe, which <hi>Diogenes</hi> gave to <hi>Aristippus,</hi> calling him the Kings dog. Some [whoſe tongues are not ſo pleaſant]
+<pb n="55" facs="tcp:171725:25"/> chuſe rather to uſe the ſtrength of arme, and ſo by violence ſup<g ref="char:EOLhyphen"/>ply their wants with other mens wealth: Others uſe the ſleight of hand by baſe picking and cut<g ref="char:EOLhyphen"/>ting of purſes and other unutte<g ref="char:EOLhyphen"/>rable crafty ſhifts.</p>
+               <p>But as this curioſity of the taſt is, for the moſt part, predomi<g ref="char:EOLhyphen"/>nant with the female ſex, whoſe crooked fingers are accuſtomed ſo well to carving, that it is the beſt faculty both of their body and mind, and whoſe chiefe glo<g ref="char:EOLhyphen"/>ry ſtandeth in gormandizing, till they ſecretly conſume their huſ<g ref="char:EOLhyphen"/>bands eſtates, ſo have they a way of wickedneſſe more proper to their Sex, to relieve their pallate, and ſenſuall appetite, even the baſe proſtituting of their bodies to the pleaſure of each luxurious lecher, till they have brought their
+<pb n="56" facs="tcp:171725:26"/> companions to a morſell of bread, which being done, they [inlarged like hell] cry for new acquaintance, to maintaine the pleaſures of their pallates, ſo that this ſin is neither <hi>hic mulier,</hi> nor <hi>haec vir,</hi> but it is the Common of two Genders, and is but too common in all both men and wo<g ref="char:EOLhyphen"/>men.</p>
+               <p>We read of one <hi>Heraclitus,</hi> a great Philoſopher, how that he alwaies wept to conſider the va<g ref="char:EOLhyphen"/>nity of the times, in which he li<g ref="char:EOLhyphen"/>ved, notwithſtanding he once found leiſure to preach a ſilent Sermon againſt this pallate-plea<g ref="char:EOLhyphen"/>ſure, and pleaſing of our taſt; for being requeſted by his Countrey-men to give his advice in a pub<g ref="char:EOLhyphen"/>like oration, how they might a<g ref="char:EOLhyphen"/>void the private ſedition and con<g ref="char:EOLhyphen"/>tention that was amongſt them,
+<pb n="57" facs="tcp:171725:26"/> he goeth into the Pulpit, where their orations were uſually made, and ſaying nothing did in the preſence of all the congregation, eat a morſell of browne bread, and drink a draught of cold wa<g ref="char:EOLhyphen"/>ter, thereby ſhewing unto his Countrey-men that exceſſe of eating and drinking was the cauſe of their ruine, and that mo<g ref="char:EOLhyphen"/>deration and temperance therein was the onely way to preſerve peace and love amongſt them; for to ſpeak as the truth is, this ſuperfluity of many procureth want in the moſt, and want pro<g ref="char:EOLhyphen"/>cureth much miſchief, where grace is not preſent to ſuſtain the needy condition of the empty-handed.</p>
+               <p>The laſt of our ſenſes is touch<g ref="char:EOLhyphen"/>ing; which is not ſo confined in the Organ as the other foure; for all the parts of mans bodie are or<g ref="char:EOLhyphen"/>ganicall
+<pb n="58" facs="tcp:171725:27"/> in touching or feeling: A man may ſenſibly touch any object of touching, with any member from the head to the foot: the object of this ſenſe is ſoft or hard, heavy or light; now in the exerciſe of our touching the craft of Satan much appea<g ref="char:EOLhyphen"/>reth, for to the jolly and lux<g ref="char:EOLhyphen"/>urious companion he offereth the ſoft pleaſures of fine rayment and curious linnen, the habite of thoſe which live in Kings houſes, as our Saviour ſaith, and by con<g ref="char:EOLhyphen"/>tinuance of time, he ſo affecteth their minds and ſo tendereth their skins, that they neither can nor will indure the hardneſſe of harden, no lin is leath weake e<g ref="char:EOLhyphen"/>nough for their ſilken [yet ſin<g ref="char:EOLhyphen"/>full] skins; it is to be doubted whether the ſending of a ſecond <hi>Jonas</hi> would bring theſe Harlots
+<pb n="59" facs="tcp:171725:27"/> to a ſhirt of haire, and theſe peoples ſilk and ſattin to ſack<g ref="char:EOLhyphen"/>cloath.</p>
+               <p>Thus their ſenſe affecting ſoft<g ref="char:EOLhyphen"/>neſſe, it cometh to paſſe, that all labour is terrible and hard, moſt uneaſie and unpleaſant; ſo idle<g ref="char:EOLhyphen"/>neſſe becometh the habite both of bodie and mind, and now is this party fit for the Devills pur<g ref="char:EOLhyphen"/>poſe.</p>
+               <p>To conclude, this deceit of our ſenſes, the Devill like a cunning fiſher, laboureth to hang us with a hook baited with ſenſuall ob<g ref="char:EOLhyphen"/>jects, and having gotten his hook in our jawes, he doth not, like ſome unskilfull Angler, by and by ſtrike, to the hazard of hook, line, rod, fiſh and all; but rather draggeth and draweth us up and downe in the Sea of our ſenſuall contentment,
+<pb n="60" facs="tcp:171725:28"/> or water of our wickedneſſe, till at the laſt he hath drowned us in our own element, that ſo the reſt of our hearts may be forgotten, and the peace of our minds buri<g ref="char:EOLhyphen"/>ed in perpetuall oblivion.</p>
+               <p>The ſecond engine whereby the peace of our heart is hindred [through the craft of the Devill] is the exerciſe of our fantaſie up<g ref="char:EOLhyphen"/>on its object, which fantaſie or imagination of ours Satan feed<g ref="char:EOLhyphen"/>eth with a thouſand fancies and and fooliſh imaginations of im<g ref="char:EOLhyphen"/>perfect ſhapes; ſometimes he de<g ref="char:EOLhyphen"/>ceiveth with the conceit of lear<g ref="char:EOLhyphen"/>ning, either this art or that lan<g ref="char:EOLhyphen"/>guage, in the perfection whereof he perſwadeth us lieth much con<g ref="char:EOLhyphen"/>tentment.</p>
+               <p>But if humane ſpeculation be not able to ſatisfie the mind, then he hath a more deceitfull inven<g ref="char:EOLhyphen"/>tion
+<pb n="61" facs="tcp:171725:28"/> to deceive us, and that is the propounding of ſome forme of religious exerciſe: And hence it is, that he hath begotten ſo many new inventions in the Sect-ma<g ref="char:EOLhyphen"/>kers of our times, as in old times he hath done heretofore: This is a Sea, and a Labyrinth of di<g ref="char:EOLhyphen"/>ſtraction, here the poor ſoul fin<g ref="char:EOLhyphen"/>deth a beginning, but hardly any end; for this religious know<g ref="char:EOLhyphen"/>ledge is ſo variable, through the multiplicity of curious wits and contentious ſpirits, [Sect-makers for the moſt part] that the life of man is too ſhort to take a view of this variety. Moreover, this exerciſe ſavo<g ref="char:EOLhyphen"/>reth ſo of duty and obedience, that men are afraid to neglect the earneſt exerciſe thereof. But well doth Satan ſee how to puffe up the mind in the acqui<g ref="char:EOLhyphen"/>ring
+<pb n="62" facs="tcp:171725:29"/> of ſuch religious know<g ref="char:EOLhyphen"/>ledge, and ſo to keep the mind in the acquiring of ſuch reaſona<g ref="char:EOLhyphen"/>ble formes of ſervice, that the poore ſoule may never paſſe fur<g ref="char:EOLhyphen"/>ther then the outward court of bodily performance, nor once looke within the moſt holy place.</p>
+               <p>Thus hath he blowne and puf<g ref="char:EOLhyphen"/>fed up many which in their ex<g ref="char:EOLhyphen"/>ternall performance and know<g ref="char:EOLhyphen"/>ledge, doe even feed and feaſt themſelves as men in dreams, ſuppoſing themſelves to have all things, and yet indeed have no<g ref="char:EOLhyphen"/>thing but onely a bladder full, or rather a braine full of windy and wordy conceptions: So fruitleſſe is all ſpeculation and knowledge, in reſpect of quie<g ref="char:EOLhyphen"/>ting the ſoule or heart; for, [as ſhall be ſhewed] the ſoule
+<pb n="63" facs="tcp:171725:29"/> cannot communicate with any ſuch comprehenſible thing, but onely with God which is a Spirit, and able to fill the Soule with his preſence, and ſo quieteth the reſtleſneſſe there<g ref="char:EOLhyphen"/>of, as it remaineth to be ſhew<g ref="char:EOLhyphen"/>ed in the eleventh place, where we ſhall ſpeake of the Har<g ref="char:EOLhyphen"/>bour or Haven of the Hearts Happineſſe, and ſhew it to be God himſelf.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="64" facs="tcp:171725:30"/>
+               <head>
+                  <hi>CHAP. V.</hi> Of the hearts deceit in the conceit of happineſs.</head>
+               <p>IT is the concluſion of the Pro<g ref="char:EOLhyphen"/>phet <hi>Jeremiah,</hi> Chap. 17. Verſ. 9. that <hi>mans heart is deceitfull above all things;</hi> and true it is, that mans heart is not more cunning either in ſimulation of good, or in diſſimulation of evill towards others, then it is in this ſelfe-de<g ref="char:EOLhyphen"/>ceiving, in ſeeming to it ſelfe hap<g ref="char:EOLhyphen"/>py in a moſt hapleſſe condition: but becauſe S. <hi>John</hi> ſaith, ch. 20. v. 21 that every mans condition is ſuch as his heart doth aſſure him of,</p>
+               <p>
+                  <hi>Object.</hi> Here may ſome object, that our hearts cannot deceive our ſelves, though it may deceive others, and this objection is
+<pb n="65" facs="tcp:171725:30"/> ſtrengthned by that place in the <hi>Corinthians, know ye not your own ſelves that Christ is in you except you be Reprobates,</hi> 2 <hi>Cor.</hi> 13.5. by which two places it ſeemeth that every mans owne heart can truly tell him what his eſtate and con<g ref="char:EOLhyphen"/>dition is, whether good or ill. Moreover, if we ſhould deny this, that mans heart is able to give him true teſtimonie, then ſhould we croſſe this truth, that the con<g ref="char:EOLhyphen"/>ſcience is a thouſand witneſſes, and ſo ſhould we be forced to run into this abſurdity of proving our inward condition and eſtate between God and us, from and by ſome marke and note from without in the outwards of our converſation; whereas to ſay as the truth is, all is in the out<g ref="char:EOLhyphen"/>wards of our converſation, ac<g ref="char:EOLhyphen"/>cording as it is in the inward of
+<pb n="66" facs="tcp:171725:31"/> our hearts, and all mans teſtimo<g ref="char:EOLhyphen"/>ny to himſelfe muſt be drawne from within, as we muſt give the Church and the world teſtimony from without.</p>
+               <p>This being granted, that the heart doth give found teſtimony of a mans eſtate and condition between God and him, how is it then ſaid, that the heart is decei<g ref="char:EOLhyphen"/>ved in the conceit of happineſſe? To which I thus anſwer, by a com<g ref="char:EOLhyphen"/>pariſon.</p>
+               <p>A Merchant, or any other man that tradeth in the world, hath good skill in Arithmetick, or the art of numbring, by vertue where<g ref="char:EOLhyphen"/>of he is very able (no man better) to caſt up the account of his e<g ref="char:EOLhyphen"/>ſtate, and ſo to know truly what he oweth, and what is due to him from others, notwithſtanding he partly through careleſneſſe, and
+<pb n="67" facs="tcp:171725:31"/> partly through fear of beholding the ruine of his condition, fore<g ref="char:EOLhyphen"/>ſeeing that he is not ſo rich as he could wiſh, and as the world doth judge, he doth neglect the preciſe examination of his eſtate, and ſo eſteemeth his eſtate [though bad] yet much better then it is; for whereas he judgeth himſelfe worth little, it proveth in the concluſion that he is ten times more in debt then all that he hath is worth. Where now is the fault? is it want of skill in numbring? No, it is the want of the exerciſe of that skill; even ſo it is with our hearts, they are able to give us true teſtimony of our eſtate with God, but moſt neglect to take a true triall of themſelves, for the reaſons aforeſaid. And ſo it cometh to paſſe, that the heart is deceived in the conceit of
+<pb n="68" facs="tcp:171725:32"/> happineſſe. Now that the danger of this rock may be avoided, let us conſider how this deceit is fra<g ref="char:EOLhyphen"/>med, where we will obſerve two things.</p>
+               <p>Firſt, what is the ground of this deceit.</p>
+               <p>And ſecondly, the manner how it worketh.</p>
+               <p>The ground of this deceit is an incredulity concerning this hearts happineſſe; for it is hard to find a man that believeth hiſtorically the quietneſſe and happineſſe of the heart as it is to be conſidered; to tell men that there is a reſt and peace in God paſſing under<g ref="char:EOLhyphen"/>ſtanding, ſeemeth a ſtrange thing to moſt men; to perſwade men that a man may be rich without wealth, honorable in diſgrace, joyfull in adverſity, ſtrong in weakneſſe, and lively in the very
+<pb n="69" facs="tcp:171725:32"/> point of death; this to perſwade men to, were to make the world wonder: So that it is cleare, that the moſt part of men are incredu<g ref="char:EOLhyphen"/>lous in this matter of the hearts happineſſe. There be many that will confeſſe that there is but God, and that the Father is the Creator of the world, that Jeſus Chriſt is the Redeemer, and the holy Ghoſt the Sanctifier, which notwithſtanding will affirme it to be a great preſumption for a<g ref="char:EOLhyphen"/>ny man to be aſſured of any hap<g ref="char:EOLhyphen"/>pineſſe in God or in Chriſt, which is all one as to deny both God and Chriſt; for no man truly and experimentally knoweth God, but he which is eſtabliſhed in him as the only good of his heart and ſoul.</p>
+               <p>But to let ſuch paſſe, which in opinion deny ſuch aſſurance, let
+<pb n="70" facs="tcp:171725:33"/> us conſider how groſſely they faile, which do in opinion allow of the poſſibility of this aſſu<g ref="char:EOLhyphen"/>rance: for though many may be found which do confeſſe that it is poſſible to come to ſuch an aſſurance and happineſſe in God, yet will they not believe, but that this aſſurance is up and down ac<g ref="char:EOLhyphen"/>cording to their working, better or worſe; neither will they believe that the peace of the heart ſtan<g ref="char:EOLhyphen"/>deth in the ſoules communion with God, but that it dependeth upon ſuch evidences as they have drawne from the conformity of their wills, affections and actions, to their literall knowledge; ſo that it cometh to paſſe that none are ſo unbelieving in this point of the hearts happineſſe, as thoſe which have acquired a brain full of verball knowledge, with which
+<pb n="71" facs="tcp:171725:33"/> they are puffed up. Infidelity be<g ref="char:EOLhyphen"/>ing the ground of this deceit, let us conſider how it worketh; the manner how it worketh is by a proud puffing up the heart in a very high conceit of what it hath acquired, and this pride is ſup<g ref="char:EOLhyphen"/>ported by two deceitfull props.</p>
+               <p>The firſt is conceit of things future and to come.</p>
+               <p>The ſecond is neglect of things preſent, which we thus declare.</p>
+               <p>Infidelity poſſeſſing the heart, hence proceedeth pride, ſtoutly oppoſing the hearts happineſſe, with one of theſe two arguments following. That is, either like <hi>Co<g ref="char:EOLhyphen"/>rah</hi> and that company, they tell the ſons of <hi>Levi</hi> they take too much upon them, to diſcourſe of ſo high and tranſcendent a ſub<g ref="char:EOLhyphen"/>ject as the Peace and Happineſſe of the Heart, or elſe in a Scrip<g ref="char:EOLhyphen"/>ture-learnedneſſe,
+<pb n="72" facs="tcp:171725:34"/> and a verball knowledge they labour to main<g ref="char:EOLhyphen"/>taine as the onely happineſſe of the heart, that eſtate and conditi<g ref="char:EOLhyphen"/>on in which they ſtand, for not having grace to humble them<g ref="char:EOLhyphen"/>ſelves to the true annihilating of their acquired and put on formes of knowledge, it muſt of neceſſity follow, that they muſt defend that eſtate in which they ſtand; the props or ſupports of this condition, and bold main<g ref="char:EOLhyphen"/>taining, are as before is ſaid.</p>
+               <p>Firſt, a conceit of future things, for when a man doth truly looke into his ſpirituall eſtate, and ſo examineth the fulneſſe of his heart, he preſently findeth a want and an emptineſſe of content<g ref="char:EOLhyphen"/>ment, yea, in the midſt of all ex<g ref="char:EOLhyphen"/>ternall fulneſſe; but now he in this eſtate of emptineſſe, doth be<g ref="char:EOLhyphen"/>fool
+<pb n="73" facs="tcp:171725:34"/> himſelfe, perſwading him<g ref="char:EOLhyphen"/>ſelfe that it ſhall be well with him, when he ſhall have accom<g ref="char:EOLhyphen"/>pliſhed ſuch and ſuch projects as his mind intendeth: And thus he putteth off this preſent time in expectation of future good, which is nothing elſe but the malice of Satan againſt our Hearts happineſs.</p>
+               <p>The ſecond prop upholding the infidelity and pride of our Hearts, is neglect of examinati<g ref="char:EOLhyphen"/>on of our preſent condition and eſtate, for the moſt part of men are ſeldome drawne to enter into a true examination of their owne condition, and ſo it cometh to paſſe, that they conceit themſelves happy in a hapleſſe condition.</p>
+               <p>Thus we ſee the hearts deceit in the conceit of happineſſe,
+<pb n="74" facs="tcp:171725:35"/> the ground of it Infidelity, the manner how it worketh, by pride, the props of its ſup<g ref="char:EOLhyphen"/>port, conceit of things fu<g ref="char:EOLhyphen"/>ture, and neglect of things preſent.</p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="75" facs="tcp:171725:35"/>
+               <head>
+                  <hi>CHAP. VI.</hi> The myſticall cloake or covering wherewith the heart is moſt ſtrongly deluded concerning this happineſs.</head>
+               <p>HAving ſhewed in the for<g ref="char:EOLhyphen"/>mer Chapter, that the Heart is deceived in the conceit of Happineſſe, (and that moſt commonly by one of theſe two deceits, either a vain confidence in things to come, or by a care<g ref="char:EOLhyphen"/>leſſe neglect of the preſent con<g ref="char:EOLhyphen"/>dition) it ſhall be neceſſary that we now come to ſhew a third and a more myſticall manner of deceit, then yet we have touch<g ref="char:EOLhyphen"/>ed. And this I the rather ſigni<g ref="char:EOLhyphen"/>fie in a Chapter by it ſelf; part<g ref="char:EOLhyphen"/>ly becauſe it requireth a large
+<pb n="76" facs="tcp:171725:36"/> dilation, and would have the former Chapter over-long; and partly becauſe it is more proper to ſome people then the for<g ref="char:EOLhyphen"/>mer deceits, being ſpun in a ſmall thred, and ſo very myſti<g ref="char:EOLhyphen"/>cally deceiving, as ſhall be ſhewed.</p>
+               <p>We read in Holy Writ of a myſterie of godlineſſe, and that is Chriſt manifeſted in the fleſh: we read alſo of a myſtery of in<g ref="char:EOLhyphen"/>iquity, and that is a fleſhly ma<g ref="char:EOLhyphen"/>nifeſtation of Chriſt; for, as the true manifeſtation of Chriſt in the fleſh is a godly and a great myſtery, ſo a fained and a falſe manifeſtation of Chriſt is a great yet a fleſhly myſtery; and if there be a myſtery of iniquity, no marvell if Satan myſtically cloak the minds and hearts of men, that they ſhould not per<g ref="char:EOLhyphen"/>ceive
+<pb n="77" facs="tcp:171725:36"/> the truth of true happi<g ref="char:EOLhyphen"/>neſſe.</p>
+               <p>But in ſhort, to tell what this myſtical cloak and covering is, which ſo ſtrongly deludeth our hearts happineſſe, it is a fair, yet a falſe flouriſh of reli<g ref="char:EOLhyphen"/>gious exerciſes. Many things there be with which the heart of man is deceived, but none may be compared to this, in re<g ref="char:EOLhyphen"/>ſpect of the cloſe and crafty de<g ref="char:EOLhyphen"/>ceiving, which in it is contained. In the declaring whereof, let us obſerve three things.</p>
+               <p>Firſt, the truth of the aſſer<g ref="char:EOLhyphen"/>tion, that a flouriſh of religious exerciſe is a ſpeciall deceiver of mans heart of the true happi<g ref="char:EOLhyphen"/>neſſe.</p>
+               <p>Secondly, let us conſider the reaſon of this religious deceit.</p>
+               <pb n="78" facs="tcp:171725:37"/>
+               <p>Thirdly, we ſhall note the manner how it worketh to de<g ref="char:EOLhyphen"/>ceive the Hearts happineſſe. That religious exerciſe doe deceive men of their hearts happineſſe, ſeemeth at the firſt a very ſtrange poſition; for it rather ſeemeth that ſenſuality, and fleſhly pleaſures and profits doe deceive men, then religious ex<g ref="char:EOLhyphen"/>erciſes, for too few, God know<g ref="char:EOLhyphen"/>eth, will ſome ſay, are religiouſ<g ref="char:EOLhyphen"/>ly exerciſed.</p>
+               <p>To which I anſwer: It is true, that very few are rel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>giouſly ex<g ref="char:EOLhyphen"/>erciſed, if we ſpeak of Religion, and religious exerciſes, as they are in truth and indeed in the account of Almighty God, who is that true <hi>Kardiognoſtes,</hi> and ſearcher of the heart. Nor are any deceived with the truth of Religion, for it is nothing elſe
+<pb n="79" facs="tcp:171725:37"/> but God in Man, conforming man to his own Image of righ<g ref="char:EOLhyphen"/>teouſneſſe and true holineſſe. Now God cannot deceive: but that there is an exerciſe of Re<g ref="char:EOLhyphen"/>ligion ſeeming true, which be<g ref="char:EOLhyphen"/>cometh the ſtrong deceiver, and moſt myſticall deluder of our happineſſe, is the Propoſition that is affirmed, and remaineth to be proved.</p>
+               <p>Let us now come to the proof of this point, conſidering it firſt in the rude and ſenſuall multitude, and then in the more ſeeming religious, and we ſhall evidently perceive that the reli<g ref="char:EOLhyphen"/>gious exerciſes of men do moſt ſtrongly deceive and delude the Heart of happineſſe; the rude multitude of ſenſuall livers, whoſe belly is their beſt god, &amp; which in truth of heart do no
+<pb n="80" facs="tcp:171725:38"/> ſacrifice but to <hi>Bacchus, Apol<g ref="char:EOLhyphen"/>lo,</hi> or <hi>Venus,</hi> &amp;c. theſe I ſay, are not ſo much deceived of hearts happineſſe by their ſenſuall ex<g ref="char:EOLhyphen"/>erciſes (though by them they be hindered) as they are by the exerciſes of their Religion, ſuch as it is, better or worſe; for in that they have the name of Chriſtians put upon them in Baptiſme, and for as much as they do often repeat the Lords Prayer, the Apoſtles Creed and the ten Commandements, and in that they come ſometimes to divine Service, and to heare a preaching upon Gods good Sunday (as they ſay:) and ſeeing that at Eaſter they do receive their Riteings or the Lords Sup<g ref="char:EOLhyphen"/>per: Hence it is that theſe peo<g ref="char:EOLhyphen"/>ple will not be perſwaded, but that their condition is moſt hap<g ref="char:EOLhyphen"/>py,
+<pb n="81" facs="tcp:171725:38"/> and he that goeth about to diſcover their hapleſſe eſtate, undertaketh a moſt fruitleſſe un<g ref="char:EOLhyphen"/>dertaking.</p>
+               <p>Now, did not theſe men per<g ref="char:EOLhyphen"/>forme any exerciſe of Religion, it were much more eaſie in the eye of reaſon, to perſwade ſuch men that their caſe were miſera<g ref="char:EOLhyphen"/>ble and wretched; but now when any man reprehendeth their vaine condition, and be<g ref="char:EOLhyphen"/>wrayeth their vanity, they by and by flie to the Caſtle of their religious exerciſe, and in it they ſhroud themſelves, as being e<g ref="char:EOLhyphen"/>quall in profeſſion with the beſt of Chriſtians, and <hi>quid ultra,</hi> what needeth any more? But God forgive me, or the like ab<g ref="char:EOLhyphen"/>rupt ejaculations: and if ſuch men as theſe have after ſome drunken fit, or after ſome fear<g ref="char:EOLhyphen"/>full
+<pb n="82" facs="tcp:171725:39"/> blaſphemous Oaths, any in<g ref="char:EOLhyphen"/>ward dejection of ſpirit, though far ſhort of <hi>Ahab,</hi> both in na<g ref="char:EOLhyphen"/>ture and time, then they con<g ref="char:EOLhyphen"/>clude themſelves very penitent perſons; and thus they ſet up themſelves in their religious condition: As well may a man perſwade theſe men that they are not men, as perſwade them that they are not true believers, and in a moſt happy condition: if it were poſſible to perſwade theſe men that they are irreligi<g ref="char:EOLhyphen"/>ous and unbelieving, and that they were of their father the Devill, whoſe work they doe, then were they in the way to<g ref="char:EOLhyphen"/>wards happineſſe: but the firſt is not likely, therefore not the ſecond.</p>
+               <p>Thus in the very rude multi<g ref="char:EOLhyphen"/>tude we ſee that religious exer<g ref="char:EOLhyphen"/>ciſe
+<pb n="83" facs="tcp:171725:39"/> doth moſt ſtrongly de<g ref="char:EOLhyphen"/>ceive; it was the too much confidence the <hi>Epheſians</hi> had of their <hi>Diana,</hi> that kept them from the receiving the faith of Chriſt, even ſo it is at this day with many, they have a forme of believing, and of ſerving God, which ſecretly they doe adore and worſhip, accounting it ſo good, and ſo great a <hi>Diana,</hi> or God-ſervice, that they neither can nor will receive any light of truth. It is ſtrange to conſider how con<g ref="char:EOLhyphen"/>trary men are to themſelves, for it is every mans opinion, and conceit, that faith with<g ref="char:EOLhyphen"/>out works is a dead faith, and no faith, and this is moſt true, notwithſtanding theſe
+<pb n="84" facs="tcp:171725:40"/> men themſelves living moſt ungodlily and wickedly, will not acknowledge that they want faith, nor hear that they are unbelievers; ſo ſtrongly are they conceited of their Faith and Religion. It was a good ſaying of <hi>Alexander Severus,</hi> and ſome others, <hi>that the beſt learning was to unlearne what was learned a<g ref="char:EOLhyphen"/>miſs;</hi> ſo I ſay, that it were the beſt leſſon for all ſee<g ref="char:EOLhyphen"/>ming religious men, to un<g ref="char:EOLhyphen"/>learn their faith and religi<g ref="char:EOLhyphen"/>on, and to acknowledge it for no faith, and no Reli<g ref="char:EOLhyphen"/>gion.</p>
+               <p>But to paſſe from this de<g ref="char:EOLhyphen"/>monſtration drawn from the prophane multitude, in whom this truth is leaſt apparent,
+<pb n="85" facs="tcp:171725:40"/> let us come to conſider it in the more preciſely religious, and it wil appear that by how much more men have been ſtrictly exerciſed to the view of the world, by ſo much more they have been decei<g ref="char:EOLhyphen"/>ved. Of all the people in the world the Jewes were moſt religiouſly exerciſed, and a<g ref="char:EOLhyphen"/>mongſt them the Phariſees were moſt devout; yet Chriſt telleth the Jewes, that they did not know the things which concerned their peace. The Phariſees had a good opi<g ref="char:EOLhyphen"/>nion of their Religion, as is plaine in him that would give God thanks, that he was not as other men were, and yet for all this they received not Chriſt the Son of Peace, with<g ref="char:EOLhyphen"/>out which no true peace can
+<pb n="86" facs="tcp:171725:41"/> be eſtabliſhed. And as of old ſo in theſe our days, thoſe that are moſt devout and forward in the exerciſes of Religion, are in that their performance moſt myſtically deceived in this point of true peace. The Papiſts, and the moſt devour amongſt them, the Jeſuites, plainly ſhew, that they have no inward peace, in that they daily plot ſo many policies to augment their degrees of preferment, whereas if they were at peace in the inwards of their hearts, then had they preferment enough, though in never ſo low a condi<g ref="char:EOLhyphen"/>tion.</p>
+               <p>Hence it is, that they as we, and we as they, run from opinion to opinion, and can abide in no condition with
+<pb n="87" facs="tcp:171725:41"/> any content, becauſe we have not this inward peace of the heart: Hence ſpring all Sects and all diviſions a<g ref="char:EOLhyphen"/>mongſt both Papiſts and Pro<g ref="char:EOLhyphen"/>teſtants.</p>
+               <p>And to conclude this point, it is moſt apparent, e<g ref="char:EOLhyphen"/>ven amongſt us both Prea<g ref="char:EOLhyphen"/>chers and Profeſſors, (which to our ſelves, and to the eye of the world, ſeem moſt reli<g ref="char:EOLhyphen"/>giouſly exerciſed) that we have no peace; for though we in the ſecrets of our hearts praiſe God, that he hath called us from our vani<g ref="char:EOLhyphen"/>ties; and that he hath made us to abhor thoſe vices, in the which our neighbours do wallow and tumble, and ſo bleſſe our ſelves in a conceit
+<pb n="88" facs="tcp:171725:42"/> of a better eſtate; notwith<g ref="char:EOLhyphen"/>ſtanding it is moſt clear, that the true peace of the heart we have not known, in ſo much, that every one of us (for the moſt part) do ſeek our ſelves, and our own ends in all our courſes: and are glad to patch and piece out our contentments with gain and glory, and vaine boa<g ref="char:EOLhyphen"/>ſting of our owne praiſes, oftentimes opening our mouths againſt others, ſe<g ref="char:EOLhyphen"/>cretly begging commendati<g ref="char:EOLhyphen"/>ons to our ſelves.</p>
+               <p>And more then all this, we muſt have our diſhes, our dainties, and our ſweet mor<g ref="char:EOLhyphen"/>ſells to ſupport our empty hearts, yea, our poſſeſſions muſt be inlarged, our buil<g ref="char:EOLhyphen"/>dings
+<pb n="89" facs="tcp:171725:42"/> muſt be beautified, and too little to ſatisfie our reſtleſſe ſoules, and which do clearly ſhew, that though we have a Religion that ſpeaks of peace, yet our Hearts are not eſtabliſhed in the God of peace; for were the ſoule once at reſt, and ſo the heart made truly happy in God, then as we did injoy one thing above all, ſo ſhould we in<g ref="char:EOLhyphen"/>joy all things in one, and in that one thing would all other things be contem<g ref="char:EOLhyphen"/>ned as dung, and as things of no eſteem; but this earthly hungering ſheweth the Hearts emptineſſe in all.</p>
+               <p>Now what hath deceived
+<pb n="90" facs="tcp:171725:43"/> us? even our conceit of the goodneſſe of our Re<g ref="char:EOLhyphen"/>ligion.</p>
+               <p>
+                  <label>Queſt.</label> But ſome will demand a reaſon, why religious ex<g ref="char:EOLhyphen"/>erciſes do ſo myſtically de<g ref="char:EOLhyphen"/>ceive?</p>
+               <p>
+                  <label>Anſw.</label> To which queſtion I thus anſwer: The Lord according to his divine wiſdome, hath ſeated in all men a certaine Character of his divine power, which divine pow<g ref="char:EOLhyphen"/>er ſeated in mans ſoule, doth hinder mans heart from contentment in anie created good, and doth cauſe the ſoule to re-a<g ref="char:EOLhyphen"/>ſpire to that <hi>ſummum bonum,</hi>
+                  <pb n="91" facs="tcp:171725:43"/> the chiefe good in God himſelf.</p>
+               <p>Hence it cometh to paſſe, that man is eaſily perſwaded, that his chiefe good doth not conſiſt in any naturall or bo<g ref="char:EOLhyphen"/>dily parts, or ſenſuall exerci<g ref="char:EOLhyphen"/>ſes, though through ſtrength of ſenſuality man be whol<g ref="char:EOLhyphen"/>ly, for the moſt part, ſenſual<g ref="char:EOLhyphen"/>ly exerciſed.</p>
+               <p>The truth of this is plain, in the confeſſion of moſt prophane and ungodly, who in words do expreſſe that their hope is in God above all, unto which they are for<g ref="char:EOLhyphen"/>ced by the power aforeſaid. Now when man in the power of the naturall conſcience, and by vertue of this divine Character is forced to fly
+<pb n="92" facs="tcp:171725:44"/> from all its ſenſuall plea<g ref="char:EOLhyphen"/>ſures, as unable to give it any contentment, then he leaneth upon the reed of his Religi<g ref="char:EOLhyphen"/>on, ſuch as it is, better or worſe; if his religious exer<g ref="char:EOLhyphen"/>ciſes be more cold or neuter<g ref="char:EOLhyphen"/>ly, then his conceit, and ſo his decit is ſo much the leſſe; if his religious exerciſe be more devout and zealous, then his conceit and deceit is more ſtrong, for as much pride doth alwaies attend ſuch verball knowledge, and bodily exerciſes.</p>
+               <p>But leſt ſome ſhould ſtag<g ref="char:EOLhyphen"/>ger at this doctrine, as though the overthrow of all religi<g ref="char:EOLhyphen"/>ous exerciſes were intended; and as if all religious exerci<g ref="char:EOLhyphen"/>ſes
+<pb n="93" facs="tcp:171725:44"/> may deceive; I will there<g ref="char:EOLhyphen"/>fore ſhew how this falſe flo<g ref="char:EOLhyphen"/>riſh of religious exerciſe doth deceive, and ſo conclude, how that the body and truth of Religion, neither doth nor can deceive.</p>
+               <p>The manner how this re<g ref="char:EOLhyphen"/>ligious floriſh doth deceive, is by reaſon of that ſympa<g ref="char:EOLhyphen"/>thy and agreement; which is in part between ſuch bodi<g ref="char:EOLhyphen"/>ly exerciſes, and the true Re<g ref="char:EOLhyphen"/>ligion: But more eſpecially in reſpect of that ſympathy, which is between ſuch bodily ſervices, and that naturall diſpoſition to Religion, which is in every mans heart; for, (as before was ſaid) there is by reaſon of the
+<pb n="94" facs="tcp:171725:45"/> divine Character in mans ſoule, a diſpoſition to a<g ref="char:EOLhyphen"/>dore, or worſhip ſome<g ref="char:EOLhyphen"/>what, as more ſupreme or excellent then it ſelf.</p>
+               <p>Now mans underſtanding being darke, yea, dark<g ref="char:EOLhyphen"/>neſſe it ſelfe, man doth entertaine ſuch a forme of religious exerciſe, as it ſeem<g ref="char:EOLhyphen"/>eth beſt to the darke and blind reaſon, being ſpur<g ref="char:EOLhyphen"/>red on by that ſparke of Di<g ref="char:EOLhyphen"/>vinitie which remaineth in the Soule, or Conſcience; notwithſtanding this reaſon (which is darke) being ſet a work by the inſtinct of na<g ref="char:EOLhyphen"/>ture, is never able to reach anie ſound or ſupernaturall truth, although it ſhould by
+<pb n="95" facs="tcp:171725:45"/> literall learning, and Clerk<g ref="char:EOLhyphen"/>like cunning, dive never ſo deep into Scripture-learned<g ref="char:EOLhyphen"/>neſſe; but contrariwiſe it reacheth a forme of know<g ref="char:EOLhyphen"/>ledge, and a forme of bo<g ref="char:EOLhyphen"/>dily working, and worſhip, ſhip, either this way or that way, as it ſeemeth beſt to everie mans reaſon and judg<g ref="char:EOLhyphen"/>ment, to underſtand the Scripture learning: For, though all Sects ſay, they will be guided by the Word of Truth, yet is the Word of Truth one as God is one, and they may according to their ſeverall conſtructions of Scriptures, and conceits of their owne wiſdome, ſeem to make good their opinion; all which formes
+<pb n="96" facs="tcp:171725:46"/> of religious exerciſes of knowing and obeying (being comprehenſible to mans rea<g ref="char:EOLhyphen"/>ſon) doe carrie in them a certaine likeneſſe unto that naturall diſpoſition which is in man, to be re<g ref="char:EOLhyphen"/>ligious: ſo man in this eſtate and condition is ſtill in the outward Court of bodily Service, having more or leſſe zeale of GOD, but not according to knowledge, that is, not according to that ſupernatural knowledge which cometh from above, called by S. <hi>James</hi> wiſdome: neither do any ſuch bodily works know God accor<g ref="char:EOLhyphen"/>ding to the verie truth.</p>
+               <pb n="97" facs="tcp:171725:46"/>
+               <p>It is life eternall, to know God, and Jeſus Chriſt whom he hath ſent; But this knowledge is not in ſpeculation, or verball diſcourſe; but it is the power of God making known to the ſoule, that power of love which paſſeth underſtan<g ref="char:EOLhyphen"/>ding; for God is love, and he that knoweth God, knoweth love, and he which loveth not, knoweth not God. 1 <hi>John</hi> 4.8. This knowledg of God, is wrought by the finger of God in the emptying of the ſoule, of putten-on forms of knowledg, which are according to the dark<g ref="char:EOLhyphen"/>nes of naturall underſtanding; and by making high things low, &amp; the ſoule that is rich poor, in the beſt of her performance; ſo that now the ſoule is naked and ſtript of all her naturall power; is brought to the carkas and body of truth; God himſelf without figure or forme,
+<pb n="98" facs="tcp:171725:47"/> not knowable to the underſtan<g ref="char:EOLhyphen"/>ding; (which judgeth only of ſpecies) but by act of communion made known to the ſoule, in the experimental acquaintance; which the underſtanding perceiveth not by diſcourſing of it, but by being ſubdued in it. This man having acquaintance with God, his heart is eſtabliſhed with grace, not with meates: he knoweth the ſecrets of the Kingdom of God; which are to many Clarkes great para<g ref="char:EOLhyphen"/>bles: and ſo is this man truly re<g ref="char:EOLhyphen"/>ſolved, that the Kingdom of God commeth not by obſervation, nor conſiſteth in meate, or drink, but in righteouſneſs, and peace, and joy in the Holy Ghoſt. This is that Body of Religion, which de<g ref="char:EOLhyphen"/>ceiveth none; and is received but of ſome.</p>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="99" facs="tcp:171725:47"/>
+               <head>
+                  <hi>CHAP. 7.</hi> Shewing the Symptomes of the con<g ref="char:EOLhyphen"/>ceited happineſs.</head>
+               <p>But that the conceit, &amp; deceit of the heart, may more fully ap<g ref="char:EOLhyphen"/>pear; let us conſider, what be the ſignes of ſuch ſuppoſed peace. The ſignes of this ſuppoſed happineſs, are no leſſe divers, then are the de<g ref="char:EOLhyphen"/>grees of ſuch falſe perſwaſions: for as men are more or leſſe in the de<g ref="char:EOLhyphen"/>grees of this falſe perſwaſion (ac<g ref="char:EOLhyphen"/>cording to the degrees of their li<g ref="char:EOLhyphen"/>terall knowledg and bodily work<g ref="char:EOLhyphen"/>ing) ſo do they giue ſeverall ſignes &amp; Symptomes, of their hearts de<g ref="char:EOLhyphen"/>ceit: all which (reſpecting bre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>ty) I ſhall comprehend under four heads. Firſt, a more groſs ſenſuall life. Secondly, a more
+<pb n="100" facs="tcp:171725:48"/> cloſe ſenſuall life. Thirdly, a ver<g ref="char:EOLhyphen"/>ball vaine boaſting of Religion. Fourthly, a moſt exceſſive exer<g ref="char:EOLhyphen"/>ciſe, and bodily performance, in things religious, together with mutation, in the formes of ſuch ſervices.</p>
+               <p>The firſt ſigne to be conceived, (which is the groſs ſenſuall life) is moſt proper to the vain and prophane multitude; for albe<g ref="char:EOLhyphen"/>it, they have (as hath been ſhew<g ref="char:EOLhyphen"/>ed) a forme of religious Exerciſe, wherein nuterly and coldly (at certain times) they exerciſe them<g ref="char:EOLhyphen"/>ſelves; and in which performance, they place their hope of happines: yet it is moſt plain, that the way of peace they never knew, ſeeing their more then bruitleſſe life, is ſo viſible to all men. Some of them proſecuting their humours with moſt fearfull and blaſphemous
+<pb n="101" facs="tcp:171725:48"/> Oaths, calling into their carnall minds, the parts and paſſions of our Saviour Chriſt, as his body, blood, wounds, <hi>&amp;c,</hi> together, with a moſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rophane uſing of he name of the moſt high God; nor being ſatisfied with this blaſphe<g ref="char:EOLhyphen"/>my, they dare proceed to higher impiety, in ſwear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng by the Crea<g ref="char:EOLhyphen"/>tures, and moſt commonly by which is leaſt known of men, namely the ſoule, a fearfull ſinne, yet very common in theſe <hi>Nor<g ref="char:EOLhyphen"/>thern</hi> parts; and that which doth aggravate this their ſinne, is the carnall occaſion them hereunto moving, (meeting them amongſt their pots, and pot-Companions) which to name, were needles, &amp; endles. To this we may adde that worldly wollowing of the co<g ref="char:cmbAbbrStroke">̄</g>mon worldlings in all ſenſual pleaſures; eating till gluttony, and drinking
+<pb n="102" facs="tcp:171725:49"/> till drunkenneſs. Others in their apparell, braving it, and out-bra<g ref="char:EOLhyphen"/>ving it; not only according to, but much exceeding their meanes, though ſtill ſhort, of their ambitious minds. Others there be, which perſecute their luxurious and beaſtly pleaſures, in which they manifeſt the empti<g ref="char:EOLhyphen"/>neſs of their hearts. Thus in ſhort, the common prophaneneſs of the rude multitude, doth plainly ſhew that there is no peace eſtabliſhed in the heart, ſeeing that (notwith<g ref="char:EOLhyphen"/>ſtanding their religious exerciſes) they lye drowned in ſenſuality; in which ſecretly, their hearts ſeeke, and (for a while) finde peace, And here let us note by the way that the emptineſs of mans heart, in the want of God, is the ſpur to all prophaneneſs, and ungodlineſs whatſoever; whether more groſs,
+<pb n="103" facs="tcp:171725:49"/> or more cloſe. The ſecond Symp<g ref="char:EOLhyphen"/>tome or ſigne, of the hearts emp<g ref="char:EOLhyphen"/>tineſs; is a more cloſe ſenſuall life, and this is to be applyed to the civill honeſt man, and to the moſt part of the verball profeſſors of Religion; for it is true, that ſome men, partly for feare, and partly for ſhame, do take the bit of rea<g ref="char:EOLhyphen"/>ſon into their mouthes; and with the reynes of diſcretion, they bridle, and refrain the groſſer part of ſenſuality: ſo that the world can not tax them of whordoms, drunkenneſs, blaſphemies, &amp;c. not<g ref="char:EOLhyphen"/>withſtanding, thoſe which have eyes enlightened by the light of grace, may plainly ſee and per<g ref="char:EOLhyphen"/>ceive, that theſe men live in a very ſenſuall life: But it is more cloſely and covertly, then the prophane man doth; <hi>for ſome are wiſe to do evill ſaith the Prophet,</hi> and ſuch are
+<pb n="104" facs="tcp:171725:50"/> all cloſe ſenſuall livers, who by crafty wyles work their wicked<g ref="char:EOLhyphen"/>neſs. Theſe cloſe ſenſuall livers declare the love of their hearts, to the ſenſuall objects by ſecret ſelf<g ref="char:EOLhyphen"/>ſeeking, in all matters of moment and high conſequence; for (if we mark them) they do cunningly ſteale praiſe and commendations to themſelves, and underneath communicate with increaſe of riches, ſumptuous buildings, &amp; cu<g ref="char:EOLhyphen"/>rious dyet; in all which the peace of their heart ſtandeth, &amp; not in God: and but that theſe things are maintained to the content<g ref="char:EOLhyphen"/>ment of their ſenſuall appetites; their hearts would break with grief and ſorrow, through the emptines thereof. And though theſe (wiſe men) carrie their ſenſuall life ſo cloſe, that they are not ſo commonly perceived as
+<pb n="105" facs="tcp:171725:50"/> the groſs ſenſualls are: yet doth it ſo farre appeare (to the godly wiſe) as to bewray the emptineſs of their hearts, in God and in Chriſt; and often times, God doth diſcover theſe Hypocrites, that they ſhall drink either to drun<g ref="char:EOLhyphen"/>kenneſs, or to fulneſs; and ſome times their cloſe-carried luxury, breaketh out to a publique decl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ring; wherein the contentment and peace of their hearts did ſtand when they ſeemed to the world to be at reſt in God. This cloſe ſenſuall life is a manifeſt ſigne of the hearts emptineſs. The third ſigne, is a vain glorious b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſting in religious performances; ſuch as are publique prayer, and Thanks<g ref="char:EOLhyphen"/>giving, reaſoning and diſputing of Religion, framing of a ſorrowfull countenance, pittifull formes of ſpeech, abrupt eiaculations, ſmi<g ref="char:EOLhyphen"/>ting
+<pb n="106" facs="tcp:171725:51"/> of the breaſt, rowling of the eyes upward towards Heaven, with a paſſionate moving of the hand; to which is annexed many a ſigh and groane, <hi>Rom.</hi> 8.26. which are not thoſe inutterable ones, proceeding from the ſpirit; But thoſe Phariſaicall ones, proceeding from vaine glory.</p>
+               <p>Thus, the body being artifici<g ref="char:EOLhyphen"/>ally framed, and all the members and motions thereof, fitly compo<g ref="char:EOLhyphen"/>ſed to a (ſeeming-holy) declaring of a very zealous condition: Now the corruptions of the time are blamed, the Antichriſtian Go<g ref="char:EOLhyphen"/>vernment of the Church is con<g ref="char:EOLhyphen"/>demned, the condition of the pro<g ref="char:EOLhyphen"/>phane is highly adjudged, and in all this, himſelf ſecretly juſtified.</p>
+               <p>Now though ſuch things (as I have named) do (in the nature thereof) ariſe and proceed from
+<pb n="107" facs="tcp:171725:51"/> true zeale, yet do they carry the party into his private Chamber or cloſet, or other ſecret place, where the ſoule doth inwardly mourn, for the corruptions of it ſelf and others, <hi>Jer.</hi> 13.17. as wit<g ref="char:EOLhyphen"/>neſſeth the Prophet in a phraſe worth the noting.</p>
+               <p>Our Saviour Chriſt doth in ex<g ref="char:EOLhyphen"/>preſs words, forbid the ſad coun<g ref="char:EOLhyphen"/>tenance, and the disfiguring of the face, and doth appoint ſecre<g ref="char:EOLhyphen"/>cy as the upper place of all religi<g ref="char:EOLhyphen"/>ous performance. <hi>Mat.</hi> 6.16. For well knew our Saviour Chriſt, that, that heart, which was full in God, needed not the eccho of vain glo<g ref="char:EOLhyphen"/>ry to ſupply its want. But the truth is, that all ſuch frothy, and windy fooliſhneſs, is a plain de<g ref="char:EOLhyphen"/>claring of the hearts emptineſs. For then do Hogſheads ſound lowdeſt, when they have leaſt
+<pb n="108" facs="tcp:171725:52"/> within them. The fourth and laſt ſigne, is an exceſſive exerciſe of re<g ref="char:EOLhyphen"/>ligious performance; together, with the mutation of ſuch exerci<g ref="char:EOLhyphen"/>ſes.</p>
+               <p>And this St. <hi>Paul</hi> did perceive to be the very God of ſome men in his time, and therefore telleth <hi>Tymothy,</hi> (that he might inſtruct others) that bodily exerciſe pro<g ref="char:EOLhyphen"/>fiteth little, and as ſome reade no<g ref="char:EOLhyphen"/>thing, and doth oppoſe thereunto godlineſs; 1 <hi>Tim.</hi> 4.8. as being an<g ref="char:EOLhyphen"/>other thing then bodily exerciſe, &amp; ſaith that it is profitable, &amp;c.</p>
+               <p>But ſuch is the myſtery of ini<g ref="char:EOLhyphen"/>quity at this day, that many men know no other godlines, but bo<g ref="char:EOLhyphen"/>dily exerciſes, and can hardly ad<g ref="char:EOLhyphen"/>mit of any diſtinction between them.</p>
+               <p>Theſe bodily exerciſes, &amp; the ex<g ref="char:EOLhyphen"/>ces thereof is manifeſt to be ma<g ref="char:EOLhyphen"/>nifold,
+<pb n="109" facs="tcp:171725:52"/> in all ſects and ſorts; ſuch as is their often faſting, often ſeeming to pray, (I ſay) ſeeming, for many pray, and pray not, be<g ref="char:EOLhyphen"/>cauſe prayer is nothing elſe but the conference of the ſoule with God (as well ſaith St. <hi>Auguſtine.</hi>) To this we may adde the bareing of the knees, the putting on a ſhirt of hair, whipping, ſcourging, much preaching to the waſting of the ſpirits, and conſuming of the bo<g ref="char:EOLhyphen"/>dy, and this is called a conſtant performance of duties.</p>
+               <p>Theſe exerciſes are mutable and variable, according to mens knowledge, and the ſtreame and ſtraine of that Miniſtery under which they live, ſo that all ſorts have their ſeverall ſervices, yet all bodily, and for the moſt part only bodily.</p>
+               <p>And it muſt needs be ſo, for
+<pb n="110" facs="tcp:171725:53"/> men having no reſt nor peace in God, do labour to eſtabliſh a peace to themſelves in the multi<g ref="char:EOLhyphen"/>plicity of bodily exerciſes: hence it is, that if they omit their ſer<g ref="char:EOLhyphen"/>vice, they have no peace all that day, and if they perform their de<g ref="char:EOLhyphen"/>votions, then they have peace, whereby it is plain, that their peace is only in bodily working.</p>
+               <p>And it cometh to paſſe, that ſo many gawdies muſt be run o<g ref="char:EOLhyphen"/>ver, ſo many prayers and repeti<g ref="char:EOLhyphen"/>tions muſt be uſed, ſo many Chap<g ref="char:EOLhyphen"/>ters muſt be read, ſo many Pſalmes ſung, <hi>&amp;c.</hi> or otherwiſe the heart is unquiet.</p>
+               <p>Now theſe men hearing of any new way of worſhip, (which cometh in the cloak of Scripture-learning, and hath a ſhew of truth founded from the letter of the bible) which worſhip ſeemeth
+<pb n="111" facs="tcp:171725:53"/> more devout and zealous, then that in which they are eſtabliſh<g ref="char:EOLhyphen"/>ed, as it will eaſily ſo appear, to a zealous and devout bodily wor<g ref="char:EOLhyphen"/>ker; eſpecially if the teacher of that new way, can but frame a ſad and demure countenance, and with a grace lift his hand, and his eye towards Heaven, with ſome ſtrong groane in the declaring of his newly conceived opinion, and that he frequently uſed this phraſe, <hi>of the glory of God, &amp;c.</hi> theſe men I ſay are by and by of another opinion, ſuppoſing to themſelves; that God hath made known ſome further truth unto them; for they are uneſtabliſhed in any way, and are conſtrained to taſt of all waters, if they be zea<g ref="char:EOLhyphen"/>lous in the bodily workings: for of ſuch I ſpeak, and not of pro<g ref="char:EOLhyphen"/>phane worldlings, nor of luke<g ref="char:EOLhyphen"/>warme
+<pb n="112" facs="tcp:171725:54"/> profeſſors, but of devout zealouſnes; ſuch as have a zeal of God, but not conform to know<g ref="char:EOLhyphen"/>ledge.</p>
+               <p>Now all this exceſſive bodily working, and the varieties there<g ref="char:EOLhyphen"/>of, do plainly ſhew and declare the emptineſs of the heart: for as much as the true worſhip of God is more inward and ſpiritual, as God himſelf is a ſpirit. The true ſervice of God, is in a profound ſilence, and inward intention to<g ref="char:EOLhyphen"/>wards God, declared (to God) by groanes which partly the ſoule cannot, and partly it will not ex<g ref="char:EOLhyphen"/>preſs.</p>
+               <p>And if this truly devout ſoule fall into any bodily exerciſe, (as often it doth) ſuch as is the utter<g ref="char:EOLhyphen"/>ing of the mind to God, by vocall tearmes; then is he in his Cham<g ref="char:EOLhyphen"/>ber or place of moſt private re<g ref="char:EOLhyphen"/>poſe,
+<pb n="113" facs="tcp:171725:54"/> and his door ſhut, or at leaſt himſelf hid from the eyes of men, as much as may be.</p>
+               <p>And if by his place or degree in the Church, or Familie, he be urged to performe duties Religi<g ref="char:EOLhyphen"/>ous, either more or leſs publique; then in ſuch performance, be la<g ref="char:EOLhyphen"/>boureth more to forget ſuch af<g ref="char:EOLhyphen"/>fected geſtures and actions (as is the ſadneſs of the countenance, &amp;c.) then any way to frame his body thereunto, and ſo ſerveth God in more depth of ſpirit, and heart-cleaving to the love of truth.</p>
+               <p>Hence it cometh to paſſe, that when the bodily performers be<g ref="char:EOLhyphen"/>hold this mans ſervice, they by and by judge him weake, or cold in religious exerciſes: but the wiſe in heart perceive that he is inward with God.</p>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="114" facs="tcp:171725:55"/>
+               <head>
+                  <hi>CHAP. 8.</hi> The hearts progreſſion towards true happineſs.</head>
+               <p>NOw in the eight place, we are to conſider the progreſ<g ref="char:EOLhyphen"/>ſion, or going forward of the heart to true happineſs: in the handling whereof, we are to ob<g ref="char:EOLhyphen"/>ſerve a very ſpeciall and peculiar difference, between this eight Chapter and all the former; for all the former parts have their uſe and exerciſe in a natural man; but this (and conſequently all that follow) is proper to the e<g ref="char:EOLhyphen"/>lect Children of God; for thus the caſe ſtandeth, that the natu<g ref="char:EOLhyphen"/>rall motion of the heart (declared in the ſecond Chapter) doth preſs mainly towards reſt: but it is ſo violently interrupted, and hin<g ref="char:EOLhyphen"/>dered by the enemy <hi>Sathan,</hi> (in
+<pb n="115" facs="tcp:171725:55"/> the ſubtill uſe of thoſe Engines (the objects of our ſenſes, and phantaſies ſpoken of in the fifth Chapter) that the heart (of the naturall man) can never find any out-gate from his ſenſualities, and formalities, or make any pro<g ref="char:EOLhyphen"/>greſſion to any properly called ſupernaturall good: but ſticketh ſtill in one created good or ano<g ref="char:EOLhyphen"/>ther; either more groſſely or more cloſely to a ſenſuall life, or at leaſt ſtandeth inlived in the bodily performance of ſome religious exerciſe, according as it hath been declared in the <hi>Symptomes of the conceited happineſs,</hi> Chap: 7. but contrariwiſe the heart moved by the finger of God, though for a time it may be hindered by crea<g ref="char:EOLhyphen"/>ted contentments (as was <hi>Salo<g ref="char:EOLhyphen"/>mon</hi>) yet at the laſt, it breaketh out (as a priſoner from the pri<g ref="char:EOLhyphen"/>ſon)
+<pb n="116" facs="tcp:171725:56"/> from all thoſe things where<g ref="char:EOLhyphen"/>in it was inſnared. And as a Ship, having a faire wind, waigh<g ref="char:EOLhyphen"/>eth Anchor, and delayeth not; ſo the ſoule, in feeling a ſweet gayle of grace, filling her ſayle (which is deſire) doth put forward for a more happy Haven, then yet ſhe hath been acquainted withall.</p>
+               <p>And this is the progreſſion of the heart toward true happineſs. In handling whereof let us conſi<g ref="char:EOLhyphen"/>der 4. things.</p>
+               <p>Firſt, the truth of the aſſerti<g ref="char:EOLhyphen"/>on, that there is ſuch a progreſ<g ref="char:EOLhyphen"/>ſion.</p>
+               <p>Secondly, in the nature of it, and wherein it doth conſiſt.</p>
+               <p>Thirdly, the conſimilitude that is between this man and a natural man, before this Progreſſion.</p>
+               <p>Fourthly, the diſſimilitude that is between this man, and all ſuch
+<pb n="117" facs="tcp:171725:56"/> as have not entered their foote into this progreſſion. For the firſt, that there is ſuch a progreſſion, and out-going of the heart from ſenſuality, &amp;c. it is moſt cleare in <hi>Salomon,</hi> who for a time did wal<g ref="char:EOLhyphen"/>low and ſport himſelf in all ſen<g ref="char:EOLhyphen"/>ſuall delights, and in them ex<g ref="char:EOLhyphen"/>pected a reſt to his ſoul; but at the laſt was forced to confeſſe, that all is but vexation of the ſpirit; he maketh progreſſion toward the feare and love of God, as his book of retractions doth de<g ref="char:EOLhyphen"/>clare.</p>
+               <p>The prodigall Sonne did for a time ſeeke contentments in vani<g ref="char:EOLhyphen"/>ty, at the laſt ſet ſaile towards his Fathers houſe: St. <hi>Paul</hi> doth not unaptly point at ſuch a progreſſi<g ref="char:EOLhyphen"/>on, when in the <hi>Philipians</hi> he ſaith, <hi>Phil.</hi> 3.13. <hi>he did forget thoſe things which were behind, and did reach
+<pb n="116" facs="tcp:171725:57"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="117" facs="tcp:171725:57"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="118" facs="tcp:171725:58"/> forth unto thoſe things which were before.</hi>
+               </p>
+               <p>And though in ſpeciall manner he hath reſpect in that place to the degrees of Chriſtianity, and in the further conforming of the man to the Image of Chriſt: yet cannot <hi>Paul</hi> have forgotten, that out-going of his heart from all that fleſhly and worldly glory, wherein (according to the fleſh) he had cauſe to rejoyce, verſe 4. of that third Chapter: doth that place give a ſlender confirmation of this truth, where <hi>Paul</hi> ſaith, <hi>that when he was a Child, he ſpake as a Child,</hi> &amp;c. <hi>But when he came to be a Man, he put away Childiſh<g ref="char:EOLhyphen"/>neſs?</hi>
+               </p>
+               <p>The truth of this expreſſion is ſo well known (to the ſoule ex<g ref="char:EOLhyphen"/>perienced in the truth of Godli<g ref="char:EOLhyphen"/>neſs) that it needeth no proofe:
+<pb n="119" facs="tcp:171725:58"/> and the Myſtery of it is ſo great <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd ſo farre above the naturall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an, that it is altogether hyper<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>olicall and incredible.</p>
+               <p>The ſecond point is to ſhew the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ature of this progreſsion, what <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is, and it ſtandeth in two <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hings.</p>
+               <p>Firſt, the putting off of all <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onceipts, and comprehenſible <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ood.</p>
+               <p>Secondly, in putting on pure <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſire towards the unknown and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omprehenſible good.</p>
+               <p>For the firſt. The Child of God is brought to a true diſſi<g ref="char:EOLhyphen"/>lence, &amp; diſtract in all his carnall, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd created confidence, whether <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey were ſenſuall pleaſures, or externall religious exerciſes, or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oth.</p>
+               <p>And as we read of the Snake, that creeping through a hedge,
+<pb n="120" facs="tcp:171725:59"/> ſhe leaveth her skin behind her: even ſo the Chriſtian heart i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> truly ſtript of all putten-on contentments, either in this thing, or in that thing; and ſo is become truly poor, miſerable, and naked; ſo that notwithſtanding, he could ſay, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> St. <hi>Paul; If any man have cauſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to rejoyce in the fleſh, much more l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> yet will this man glory in nothing ſave only in infirmities, &amp; that to the ſhame and confuſio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of his own face: And thus will the Kings Daughter he forſaketh his Fathers houſe, and with <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> leaveth his native Countrey, to ſeeke dwelling in a Land, as yet unknown.</p>
+               <p>The ſecond point is putting on of deſire. The poor ſoule beaten, (by the miniſtery of Chriſt) out of its contentments; is now diſ<g ref="char:EOLhyphen"/>ſolved
+<pb n="121" facs="tcp:171725:59"/> into deſire, and is nothing elſe in ſenſuality, but pure intention, and as the heart brayeth for the River of water, ſo longeth this ſoule for God, and to be known of him, whom ſhe knoweth not. And thus (as the ſpouſe) ſick with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ove, and raviſh'd with deſire, ſhe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eeketh him whom her ſoule <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oveth.</p>
+               <p>In this ſtrength of deſire, all o<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her deſires and intentions are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rowned; ſo that this ſoule hath <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o entertainment for carnall and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſhly deſires, but ſuch as in cold <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd careleſs, as being much more <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>illing to be freed of them, then <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be exerciſed in them.</p>
+               <p>And as it is with naturall men, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eir religious deſires are cold, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d the deſires of profits and, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaſures, do drown all divine <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tentions: ſo is it on the other
+<pb n="122" facs="tcp:171725:60"/> ſide with the ſoule of the Chri<g ref="char:EOLhyphen"/>ſtian where he entereth his foot into his heavenly progreſſion. But ſome will ſay, what doth this ſoule deſire? I anſwer, that which is unknowable, even God himſelf.</p>
+               <p>Thirdly, we are to conſider the equality that is between this man (in this progreſſion, that is to ſay, before he undertaketh it) and a meere naturall man.</p>
+               <p>Now to ſpeak, as the truth is, he is as like to a naturall (before this progreſſion) as one egge is like another; for, the ſoules of al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> men, both elect and reprobate<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are in the ſame condition, empt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the true good, and natural<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> moving towards true happine<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> as was ſhewed in the ſeco<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Chapter; ſo that till the Arme<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Lord be revealed, (brin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ing
+<pb n="123" facs="tcp:171725:60"/> the ſoules of his people out of all created contentment) the Children of God and the Chil<g ref="char:EOLhyphen"/>dren of the world, do anſwer each other in a true ſympathy, &amp; conſimilitude of like condition.</p>
+               <p>Fourthly and laſtly, we are to note the diſſimilitude and diffe<g ref="char:EOLhyphen"/>rence, that is between the Child of God (after he is entred into this progreſſion) and the naturall man.</p>
+               <p>There was not more conſimi<g ref="char:EOLhyphen"/>litude then contrariety; for the Child of God in this Eſtate, ſur<g ref="char:EOLhyphen"/>paſſeth the naturall man, in the object of his deſire, ſeeing he a<g ref="char:EOLhyphen"/>ſpireth to nothing under God himſelf, ſo tranſcendent is his de<g ref="char:EOLhyphen"/>ſire.</p>
+               <p>This man laboureth to know <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat which paſſeth knowledge; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd his chief care is, to beat down
+<pb n="124" facs="tcp:171725:61"/> the working of his wit, and to keepe his underſtanding from cu<g ref="char:EOLhyphen"/>rioſity of ſpeculation, as knowing it to be a great hinderance to the act of his ſoules Communion with God.</p>
+               <p>Hence it cometh to paſſe, that this man is a wonder to the world and to all Sectaries, for they have all their knowledge, ſuch as they can in reaſon comprehend, which maketh them ſuch apt diſputers and cunning cavillers, and cau<g ref="char:EOLhyphen"/>ſeth ſo much diviſion, and ac<g ref="char:EOLhyphen"/>compliſheth ſo many Sects. Alſo in the degree of deſire, the man in this <hi>Progreſſion,</hi> differeth much from a natural man; for this mans deſire is moſt ſtrong, yea ſtronger then death, and moſt conſtant without variety of objects; and ſo is his underſtanding drowned in this one thing whereunto hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="125" facs="tcp:171725:61"/> heart preſſeth: ſo that variety of particular queſtions are moſt grievous and burthenſome unto him. But tontrarily all naturall men, yea, the greateſt of our lit<g ref="char:EOLhyphen"/>terall profeſſors, they are occupi<g ref="char:EOLhyphen"/>ed in and about ſo many particu<g ref="char:EOLhyphen"/>lars of knowledge, that, that Mi<g ref="char:EOLhyphen"/>niſtery which is exerciſed about this one thing, and terminateth all in one, is unto them as ridicu<g ref="char:EOLhyphen"/>lous, as the ſong of the <hi>Cuckoe.</hi>
+               </p>
+               <p>Notwithſtanding he which is the truth, ſaid, there is one thing needfull. And as the naturall mans intentions are variable, ſo are they weake (in compariſon of the godly mans deſire;) for accor<g ref="char:EOLhyphen"/>ding to that opinion of <hi>Philoſophy,</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>trength united is more ſtrong. So then it muſt of neceſſity fol<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow, that that man which is with<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rawn from many things, and
+<pb n="126" facs="tcp:171725:62"/> hath his deſires bent wholly in one thing, hath a more forcible and ſtrong intention; as in our <hi>Engliſh</hi> Proverb, he that hath many Irons in the fire, muſt coole ſome of them; ſo thoſe men which mind many things, have leſs fer<g ref="char:EOLhyphen"/>vor in all their intentions, and alſo leſſe conſtancy. But the Child of God (once entred into this out-going and progreſſion) marcheth valiantly in the degree<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thereof; till at the laſt he come to that happy Haven, God him<g ref="char:EOLhyphen"/>ſelf, as it is to be ſhewed in the 11. Chapter.</p>
+            </div>
+            <div n="9" type="chapter">
+               <pb n="127" facs="tcp:171725:62"/>
+               <head>
+                  <hi>CHAP. 9.</hi> The hearts farewell to all falſe flattery.</head>
+               <p>THe heart reſolving ſuch a progreſſion towards true happines, (in this out-going from <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t ſelfe, and all comprehenſible good) doth now take her <hi>optimum &amp; ultimum vale,</hi> her laſt &amp; beſt farewel, of all thoſe flattering de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eits, wherewith ſhe was detained &amp; kept from this aſpiring towards <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he true good. And here (as in the eight Chap:) &amp; in the reſt which <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ollow, wee muſt remember that we ſpeake of things proper, and peculiar to the people of God, who (as <hi>Eagles</hi>) doe follow the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arkaſe of Chriſt himſelfe, in whome dwelleth that Soul of
+<pb n="128" facs="tcp:171725:63"/> truth, God himſelfe bodily. A man reſolved to goe into ſome ſtrange Countrey (and that with purpoſe never to return) cannot but have (within himſelf) a great conflict in this reſolution, to for<g ref="char:EOLhyphen"/>ſake freinds, acquaintance, &amp;c. But at the laſt (being ſtrong in reſolu<g ref="char:EOLhyphen"/>tion) he biddeth them all farewel: Even ſo it is with the Child of God, intending this progeſſi<g ref="char:EOLhyphen"/>on; For to his fleſh it is greivous to part with profits, &amp; pleaſures, naturall wiſdome, and humane ſpeculations; ſo deare unto na<g ref="char:EOLhyphen"/>ture are all ſenſull and rationall acquaintance, till at the laſt, (as Theologically ſaith that Divine poet <hi>Dubartas</hi> of <hi>Abraham</hi> in the forſaking of his Country) he con<g ref="char:EOLhyphen"/>cludeth, it muſt be ſo, for ſo the Lord commands; A carnall man or carnall ſtands; But for all
+<pb n="129" facs="tcp:171725:63"/> reaſon, faith ſufficeth me; who lodgeth with God, ſhall never houſeleſſe be. But that this fare<g ref="char:EOLhyphen"/>well may more plainely appeare, wee will particularly conſider in it three things.</p>
+               <p>Firſt, the things whereof he taketh his leave or farewell.</p>
+               <p>Secondly, the manner how he taketh his leave.</p>
+               <p>Thirdly, the arguments where upon he groundeth this his reſo<g ref="char:EOLhyphen"/>lution.</p>
+               <p>The firſt is twofold, that is, firſt from ſenſuall things; Secondly ra<g ref="char:EOLhyphen"/>tionall contentments. The ſenſuall contentments do for a long time detain and retain the heart of man; And that by reaſon of the variety of that vanity, in our ſub<g ref="char:EOLhyphen"/>till and diabolicall invention: So that our heart as a ball is toſſed to and fro from vanity to vanity,
+<pb n="130" facs="tcp:171725:64"/> through our manifold inventions, as with ſo many ſeveral rackets, &amp; can find no reſt. Thus was it with <hi>Salomon,</hi> in the time of his vanities, till at laſt he found all vanity to be vexation of this ſpirit; then did he take his far<g ref="char:EOLhyphen"/>well of ſuch Senſualitie. And this was the caſe of the prodig<g ref="char:EOLhyphen"/>all Sonne; but at the laſt he did take his farwell &amp; went towards his Fathers houſe. This forſake<g ref="char:EOLhyphen"/>ing of Senſuality, is called a mor<g ref="char:EOLhyphen"/>tifying of the Members, and a kil<g ref="char:EOLhyphen"/>ling the deeds of the body. And though this forſaking of ſenſual<g ref="char:EOLhyphen"/>lity, and ſinfull pleaſure, be a thing grievous to fleſh &amp; blood, yet is all ſuch contentments, con<g ref="char:EOLhyphen"/>temned of the man in this pro<g ref="char:EOLunhyphen"/>greſſion, and he caſts them of<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as dung, or as dogs meat: &amp; in the reſolution of his heart, voweth to
+<pb n="131" facs="tcp:171725:64"/> have no more cohabitation with ſuch Companions. And having taken his leave of this falſe friend ſenſuality, it may be, he doth for a while ſtay in the Wilderneſs, of mortality, civility, or religious formality, in ſome or all of them, as to his reaſon ſeemeth beſt.</p>
+               <p>This man while he here ſtayeth, may be ſaid to be come from <hi>E<g ref="char:EOLhyphen"/>gypt,</hi> of beaſtly and brutiſh ſenſu<g ref="char:EOLhyphen"/>ality; but yet this man is farre remote from <hi>Canaan</hi> the land of reſt.</p>
+               <p>Now while man is eſtabliſhed in any of theſe wayes, I judge him to be as it were in the Wil<g ref="char:EOLhyphen"/>derneſs of rationall contentment. I call it rationall, becauſe the rea<g ref="char:EOLhyphen"/>ſon of man doth conduct hjm in<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o this way, of what kind ſoever <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t be, if it be paſt ſenſuall; but in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he ſenſuall reaſon is no guide,
+<pb n="132" facs="tcp:171725:65"/> but only blind affection, pricked forward by the organicall pow<g ref="char:EOLhyphen"/>er of the ſenſuall exerciſe. And this rationall condition, I the ra<g ref="char:EOLhyphen"/>ther call a Wilderneſs, becauſe, as in a Wilderneſs, men often looſe themſelves, and can find no way out; but ſuppoſing (after long travell) that they are near the place where they intend, are in truth further off; ſo it fa<g ref="char:EOLhyphen"/>reth with many, yea with all ſuch as walk in the way of reaſon and humane underſtanding, they looſe themſelves in the woods &amp; buſhes of their deep and learned ſpeculations, ſo that the longer they travell, the further they are from God and reſt in him.</p>
+               <p>This rationall Habitation is alſo twofold, in reſpect of the ſubject matter, in and about which it is occupied, <hi>viz.</hi> humane or divine.
+<pb n="133" facs="tcp:171725:65"/> And in taking a farewell of both theſe parts of the rationall con<g ref="char:EOLhyphen"/>tentment; in this eſpecially doth the Child of God outſtrip the naturall and verbal profeſſor. For the naturall prefeſſor (for ſo I call all brain-ſick diſputers) ta<g ref="char:EOLhyphen"/>keth a cold farewell of the ſenſu<g ref="char:EOLhyphen"/>all life only, or rather he exchan<g ref="char:EOLhyphen"/>geth his groſſe ſenſuall life into a more cloſe ſenſuall life; and com<g ref="char:EOLhyphen"/>muning partly in conceit, and partly in truth, out of the fleſhly and ſenſuall life, he now ariveth in the Haven of ſome ſpeculation or knowledg, either in things hu<g ref="char:EOLhyphen"/>mane or divine, or in both: So that this man (by vertue of his knowledg) can diſpute and rea<g ref="char:EOLhyphen"/>ſon of the outward and bodily part of Gods worſhip: he can diſcourſe of white and black, round and ſquare, of kneeling
+<pb n="134" facs="tcp:171725:66"/> and ſubſcribing, and run an infi<g ref="char:EOLhyphen"/>nite diſcourſe againſt Antichri<g ref="char:EOLhyphen"/>ſtian Government: and this rati<g ref="char:EOLhyphen"/>onall diſcourſe he calleth the lan<g ref="char:EOLhyphen"/>guage of <hi>Canaan;</hi> Indeed ſo it is the language of <hi>Canaan:</hi> for o<g ref="char:EOLhyphen"/>ther land of reſt his heart know<g ref="char:EOLhyphen"/>eth not, then what ariſeth from theſe things wherein he is eſta<g ref="char:EOLhyphen"/>bliſhed. This ſpeculation is his <hi>ſummum bonum,</hi> and from this his knowledg and his working, he deducteth notes and markes of his unfit faith (and reall fidelity) ſuppoſing and imagining, that he believeth, which faith never fail<g ref="char:EOLhyphen"/>eth him, till he ſtand in need of it.</p>
+               <p>But the true Chriſtian taketh his farewell, as of the ſenſuality, ſo of all rationall contentments, and biddeth all comprehenſible<g ref="char:EOLhyphen"/>neſs farewell, as being too weak and unworthy for his ſoule to
+<pb n="135" facs="tcp:171725:66"/> have ſociety withall. And ſo be<g ref="char:EOLhyphen"/>cometh more ſtrong in deſire, then curious in ſpeculation, and longeth more to feele communi<g ref="char:EOLhyphen"/>on with God, then to be able to diſpute of the genus or ſpecies of any queſtion humane or di<g ref="char:EOLhyphen"/>vine, and thus in depth of deſire, is humbled in the higheſt degree of knowledg, and preſſeth to know God in powerfull experi<g ref="char:EOLhyphen"/>ence.</p>
+               <p>This man doth no longer com<g ref="char:EOLhyphen"/>mit ſacriledg or ſpirituall whote<g ref="char:EOLhyphen"/>dome in the ſecret of his heart, either with knowing or doing, (though his knowledg be great, and his obedience ſurpaſſing ma<g ref="char:EOLhyphen"/>ny) but is truly nullifyed and made nothing, and ſo is become a foole in all fleſhly wiſdom, ha<g ref="char:EOLhyphen"/>ving nothing to glory in, but only the Lord.</p>
+               <pb n="136" facs="tcp:171725:67"/>
+               <p>Secondly, we are to conſider, the manner how the heart taketh this fare-well, from the ſenſuall and rationall life.</p>
+               <p>It is not by going out of ei<g ref="char:EOLhyphen"/>ther, but metaphorically; that is, the heart denieth to receive any contentment from either of them. We are to know that the Chriſtian can uſe the Objects of his ſences, as though he uſed them not; and ſo the world, and the things in the world; he be<g ref="char:EOLhyphen"/>ing in the inwards of his heart, truly gone, and ſeparated (in his affections) from all created good. So that this man doth not Stoical<g ref="char:EOLhyphen"/>ly refuſe the lawful liberty of any Creature that God hath made; but whereas before they were as Lords over him, and as Gods to him, now he is Lord over all Creatures, which God hath given
+<pb n="137" facs="tcp:171725:67"/> him for his uſe, and himſelf truly ſubject to God in Chriſt. Nor doth he madly deſpiſe the uſe of reaſon, or contemn the exerciſe of the underſtanding (as ſome would infer) but now he uſeth reaſon, and art as only hand<g ref="char:EOLhyphen"/>maids and attendants to Divinity and Divine knowledg; and ſo keepeth reaſon under, that if (with <hi>Hagar</hi>) it will be bearing rule, he in the wiſdom of God like <hi>Sarah</hi> will caſt it out from having any Dominion. So that this man doth uſe his reaſon to confute, and confound the Argu<g ref="char:EOLhyphen"/>ments of them, that would have reaſon Lord over our faith, and ſuch as would eſtabliſh reaſon as the chief good.</p>
+               <p>And now (this mans reaſon be<g ref="char:EOLhyphen"/>ing ſubdued) he is ten times more reaſonable then he was before,
+<pb n="138" facs="tcp:171725:68"/> for now his reaſon doth keepe her true liſts and limits. So hath reaſon her true uſe in all ſpecies, and comprehenſible things, in which ſhe ſits in man as Lord; and alſo (in reſpect of her ſub<g ref="char:EOLhyphen"/>jection) there is a free paſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge for the ſoule in pure a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, to breath unto God in ſtrength of deſire, and ſo to communicate with him as he ſhall be pleaſed to reveale in his own time.</p>
+               <p>This humble uſe of reaſon hath St. <hi>Paul</hi> reſpect unto, when he confoundeth faith and reaſon, making them both as one, 2 <hi>Theſ.</hi> 3.2. for then is reaſon one with faith, when it is ſubjugated to faith; otherwiſe faith is a thing above reaſon.</p>
+               <p>We ſee then that the Chriſti<g ref="char:EOLhyphen"/>an farewell to the ſenſuall and ra<g ref="char:EOLhyphen"/>tionall life is not abſolutely to
+<pb n="139" facs="tcp:171725:68"/> be conſidered, but reſpective<g ref="char:EOLhyphen"/>ly. It is not a ſhortning of a mans life, to avoid the world, nor a re<g ref="char:EOLhyphen"/>fuſing the uſe of means, to recti<g ref="char:EOLhyphen"/>fie reaſon.</p>
+               <p>The 3. and laſt point to be con<g ref="char:EOLhyphen"/>ſidered, is the Arguments whe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>upon the heart reſolveth this farewell. The Arguments are de<g ref="char:EOLhyphen"/>ducted from privation; for the heart conſidereth what it hath loſt, and it findeth that the loſt is no Creature, nor any compre<g ref="char:EOLhyphen"/>henſible thing, but a Creator moſt incomprehenſible; ſo that the heart muſt needs paſſe from every other thing, and re-aſpire to that which it hath loſt.</p>
+               <p>Secondly, the want of comfort in all other things wherein the heart hath been eſtabliſhed; for thus the heart or ſoule reaſoneth againſt her. 2. Enemies: ſenſuality,
+<pb n="140" facs="tcp:171725:69"/> and rationall formality. You ne<g ref="char:EOLhyphen"/>ver could give me any ſtable con<g ref="char:EOLhyphen"/>tentment, &amp;c. <hi>ergo,</hi> I muſt needs bid you farewell, &amp;c. So that the Arguments moving this farewell, are very forcible, as may be ſhewed in the amplification of them; but I'le leave it to be un<g ref="char:EOLhyphen"/>derſtood: But leaſt we ſhould deceive our ſelves in the conceit of this farewell, (remaining ſtill on our old condition) I ſhall in the next Chapter declare the ſignes and Symptomes of this farewell.</p>
+            </div>
+            <div n="10" type="chapter">
+               <head>
+                  <hi>CHAP. 10.</hi> Shewing the ſignes of the Chriſtian farewell.</head>
+               <p>HAving declared this fare<g ref="char:EOLhyphen"/>well, it remaineth in the tenth place, to ſhew the ſignes
+<pb n="141" facs="tcp:171725:69"/> and ſymptomes thereof. For ſuch is the nature of man, that he no ſooner heareth that ſuch a fare<g ref="char:EOLhyphen"/>well ſhould be undertaken; but by and by he conceiteth, that it is in him accompliſhed; although he be more firmly, and unmovea<g ref="char:EOLhyphen"/>bly ſettled, (in theſe things which he ſhould forſake) then former<g ref="char:EOLhyphen"/>ly he hath been. That the ſignes may better appear, we are to re<g ref="char:EOLhyphen"/>member three things which are forſaken, <hi>viz.</hi> the ſenſuall and the rationall life, as in the former Chapter: for the Symptomes of the forſaking, have reference and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>greement to things that are for<g ref="char:EOLhyphen"/>ſaken.</p>
+               <p>Firſt, let us ſpeak of the ſignes of the ſenſuall forſaking, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey are in number three. The <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>irſt is the withdrawing of our hearts, from the exerciſe. I ſay
+<pb n="142" facs="tcp:171725:70"/> the withdrawing of the heart; for though mans ſenſes be ſtill exer<g ref="char:EOLhyphen"/>ciſed in and upon their proper objects, yet is not the life ſenſu<g ref="char:EOLhyphen"/>all; for the heart taketh no con<g ref="char:EOLhyphen"/>tentment from any ſuch exerciſe; but is ſtill (for the moſt part) ex<g ref="char:EOLhyphen"/>erciſed in a more tranſcendent Communion, even with God and Chriſt; whereas the ſenſuall e<g ref="char:EOLhyphen"/>ver hath his hearts contentment from his ſenſuall and ſinfull ex<g ref="char:EOLhyphen"/>erciſes, and other contentment hath he none, inſomuch, that when ſuch pleaſure and profits faile him; his very heart doth faile, and his ſoule is filled with heavineſs But the man which hath taken his farewell from the ſenſuall life, receiveth no cordiall content from any ſenſuall exer<g ref="char:EOLhyphen"/>ciſes whatſoever.</p>
+               <p>This withdrawing of the heart
+<pb n="143" facs="tcp:171725:70"/> is not unaptly pointed at in the ſpeech of the ſpouſe, <hi>Cant.</hi> 5.2. I (ſaith ſhe) ſleepe, but my heart waketh: ſo it may be ſaid of the true Chriſtian; he is ſleeping, look<g ref="char:EOLhyphen"/>ing, hearing, taſting, eating, drink<g ref="char:EOLhyphen"/>ing, feaſting, &amp;c. but his heart is withdrawn, and is rejoycing in God his Saviour, and his ſoule is magnifying the Lord. Contrari<g ref="char:EOLhyphen"/>wiſe, thoſe men, whoſe hearts are not thus withdrawn, they are ſo drowned in their ſenſuall exerci<g ref="char:EOLhyphen"/>ſes; that they forget both God and his people, as the Prophet <hi>Amos</hi> doth ſignifie unto us at large, <hi>Amos</hi> 6. <hi>verſ.</hi> 3.4.5.6. but the man whoſe heart hath entred into the forſaking of ſenſuali<g ref="char:EOLhyphen"/>ty, hath his only content in God, as is aforeſaid.</p>
+               <p>The ſecond ſigne of this fare<g ref="char:EOLhyphen"/>well, is the true content, that
+<pb n="144" facs="tcp:171725:71"/> this man taketh in hearing his ſenſuall life reproved in every particular, yea, though he knew himſelf particularly ſpoken to; this man loveth the rod of cor<g ref="char:EOLhyphen"/>rection, and can moſt kindly kiſs both the reproof and the repro<g ref="char:EOLhyphen"/>ver, and that not with the hypo<g ref="char:EOLhyphen"/>criticall kiſſe of <hi>Judas,</hi> as ſome who will ſeeme to kiſſe reprehen<g ref="char:EOLhyphen"/>ſion, till they ſee opportunity, to be revenged of the reprover, to whom they ſecretly ſay in heart, as <hi>Ahab</hi> did, have I found thee oh mine enemy. I need not ſtand to amplifie, how unwilling<g ref="char:EOLhyphen"/>ly ſenſuall ſinners entertain re<g ref="char:EOLhyphen"/>proofe; the common unkindneſs which all faithfull reprovers find at their hands; as alſo the uſuall advancement and preferment of flatterers, and time-ſervers, is a ſufficient demonſtration, how ill
+<pb n="145" facs="tcp:171725:71"/> they brooke reprehenſion. But it is far otherwiſe with them which have forſaken their ſinfull and ſen<g ref="char:EOLhyphen"/>ſuall life, for they love to be ſmit<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en with a righteous hand, &amp;c. The <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xample of <hi>Fragan</hi> the Emp. is worth the remembring; who deſi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed nothing elſe of old Mr. <hi>Plu<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arke,</hi> but only this, that he would <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lainly reprove his failings, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ithall told him, that when he ſee<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed angry, he would not have him <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o think that it was at him for his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eproofe, but at himſelf for the fault <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>equiring ſuch reproof; but alas! we <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave few ſuch <hi>Fragans,</hi> and as few <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lutarkes.</hi>
+               </p>
+               <p>The third ſymptome, is a quiet ac<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uittance from the Court of our <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wn Conſcience, in the day when <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaſon holdeth her ſeſſions, by the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vidence of morall truth, which is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us to be conceived; there is in an a power of reaſon and under<g ref="char:EOLhyphen"/>ſtanding,
+<pb n="146" facs="tcp:171725:72"/> and this reaſon of man is ſometimes more free and fit, (being freed from the incumbrances of the unruly affections to judge &amp; deter<g ref="char:EOLhyphen"/>mine according to evidence, that is according to the light of moral truth made known, either by reading, or hearing, or by depth of ſolid medita<g ref="char:EOLhyphen"/>tion: now if in this day &amp; hour (whe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thy reaſon ſhall be awakened) thy Conſcience do not torment the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> but ſpeak peace &amp; quiet unto thee this is an Argument that thou ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> taken thy farewell of the ſenſua<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> life. For of this be ſure, that eithe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thou haſt taken thy farewell of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſenſuall life, or elſe thy Conſcienc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> doth torment thee, or elſe thy re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſon is a ſleepe, and cannot heare th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> voice of morall truth.</p>
+               <p>Now come we to ſhew the ſign<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of forſaking the rationall conten<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ment, which is that where in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="147" facs="tcp:171725:72"/> true Chriſtian doth outgoe the morall honeſt man. And theſe be in number 4. Firſt, an undoubted re<g ref="char:EOLhyphen"/>ſolution of a negative condition; that is to ſay, the ſoule or heart of this man is fully reſolved, that all comprehenſible acts and things, men and meanes, are no way able to give it peace, and that not only of thoſe things wherein it hath had experience; but alſo in whatſoever new invention it may heare of in time to come.</p>
+               <p>The ſecond ſigne is a firm per<g ref="char:EOLhyphen"/>ſwaſion affirmative concerning the true happineſs to conſiſt in God, and only in him: which firm perſwaſi<g ref="char:EOLhyphen"/>on begetteth ſuch a patient waiting as ſheweth forth the very ſeeds of faith to be in the heart: and this ſoule will rather chu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e to dye in this deſire (if God refer its requeſt) then be brought to re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y upon any
+<pb n="148" facs="tcp:171725:73"/> comprehenſible good, by any hu<g ref="char:EOLhyphen"/>mane perſwaſion.</p>
+               <p>A third ſigne is a great and un<g ref="char:EOLhyphen"/>ſpeakable admiration, which is wrought in the ſoule, to conſide<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the paſſages of all opinions, and th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> termination of all difficulties: toge<g ref="char:EOLhyphen"/>ther with that ſweet beholding (with the eye of faith) all thing extracted out of one thing, and i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> one to ſee all. As moſt divinel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſaith this <hi>Akempis,</hi> he to whom th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> eternall word ſpeaketh is freed fro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> many opinions, which freedom be<g ref="char:EOLhyphen"/>getteth a great admiration in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> heart in which it dwelleth. The 4. and laſt note, is a moſt profoun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſilence, concerning all curious in<g ref="char:EOLunhyphen"/>quiſition and diſcourſe; this ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pondereth much in his heart, bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> prateth little with his tongue, he <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> now ſwift to hear, and ſlowe t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſpeak. And this is that by whic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in a moſt ſpeciall manner, he differ<g ref="char:EOLunhyphen"/>eth
+<pb n="149" facs="tcp:171725:73"/> from the wordie &amp; windy pro<g ref="char:EOLhyphen"/>feſſor. And this is a ſure teſtimony, that this man hath taken his fare<g ref="char:EOLhyphen"/>well of his deceitfull and deceiving reaſon.</p>
+            </div>
+            <div n="11" type="chapter">
+               <head>
+                  <hi>CHAP. 11.</hi> Shewing the true Harbour, or Ha<g ref="char:EOLhyphen"/>ven of the Hearts Anchorage.</head>
+               <p>HAving declared the hearts pro<g ref="char:EOLhyphen"/>gre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſion towards happineſs, her farewell to all falſe flattery, and the Symptomes of it it remaineth that we ſhew, what is the haven or har<g ref="char:EOLhyphen"/>bour of the heart. This hath been negatively ſignified, and affirma<g ref="char:EOLhyphen"/>tively inſinuated in all our former <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſſages, in that we have laboured <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he bringing of the heart from all <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd every comprehenſible thing: The which now I intend more pun<g ref="char:EOLhyphen"/>ctually to reſolve (with as much
+<pb n="150" facs="tcp:171725:74"/> brevity as may be.) The haven or harbour of mans heart is God. And nothing under God, nor nothing beſides God, nor any joyned with God; but purely God nakedly re<g ref="char:EOLhyphen"/>vealing his Fatherly face in Chriſt unto the believing ſoule, uniting himſelf unto the ſoule, and the ſoule unto him, in pure act of hyperboli<g ref="char:EOLhyphen"/>call, and incredible Communion which is rather felt by experience then known by diſcourſe, and i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> more reall then verball. This be<g ref="char:EOLhyphen"/>holding the beauty of the, Lord i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that one thing which <hi>David</hi> deſi<g ref="char:EOLhyphen"/>reth above all things. <hi>Pſalm.</hi> 27.5. It is the pleaſant face of God, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it only which can put gladnes into his heart <hi>Pſalm</hi> 4. and again, he hat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nothing in Heaven or in earth bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> only God, <hi>Pſalm.</hi> 73.25. He whoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> name is the Lord of Hoſts is the Po<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tion of <hi>Jacob, Ier.</hi> 10.16. to him th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> righteous fly for ſafety, <hi>Prov.</hi> 18.10
+<pb n="151" facs="tcp:171725:74"/> theſe are the people which are kept in perfect peace; whoſe minds are ſtayed in the Lord, as ſaith the Pro<g ref="char:EOLhyphen"/>phet <hi>Iſaiah,</hi> 26, 3. nor ſet any que<g ref="char:EOLhyphen"/>ſtion, whether any thing ſave only God, can be the ſtay of the heart; for the reaſons declaring this truth are invincible. And firſt God only can be the haven of mans heart, becauſe he only is that infi<g ref="char:EOLhyphen"/>niteneſs which the heart deſireth. For this we are to know, that mans deſires are infinite and endleſs, not triangle, as is the figure of the heart, but infinite according to that good<g ref="char:EOLhyphen"/>neſs which it once loſt, in looſing God; and hence it is, that all Crea<g ref="char:EOLhyphen"/>tures are unable to give it any ſtable contentment, becauſe all compre<g ref="char:EOLhyphen"/>henſible things are of a finite con<g ref="char:EOLhyphen"/>dition, God only can accompliſh this reſt, becauſe the longing of the heart is only in him.</p>
+               <p>A ſecond reaſon is this, God is a
+<pb n="152" facs="tcp:171725:75"/> ſpirit, and therefore moſt fit for the ſoule of man (which is ſpirituall) to <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt anchorin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all other things are too ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>low waters for the ſhi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> neare <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ide in; for th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſoule muſt ne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> which is <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> by <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>; an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> God h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſelf m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s harbour. The <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of, doth teach us theſe u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es. F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt, it doth decl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re the naturall <gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>neſs and Idolatry of mans heart, in that its earneſt ſeeking of reſt in a created ſubject or object. Alas! man ſeeketh nothing more then reſt, as was <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hewed in the ſecond Chapter: but how, ſome in wine, ſome in women, ſome in with, wealth learning, religious exerciſes, &amp;c. as the blindneſs of the underſtanding doth direct; whereas all theſe are but ſo many whoriſh inventions
+<pb n="153" facs="tcp:171725:75"/> of mans Idolatrous heart, which ſe<g ref="char:EOLhyphen"/>cretly placeth a God-head &amp; deity in theſe comprehenſible things; but we ſee that God will not give his glory to another, and therefore de<g ref="char:EOLhyphen"/>nieth the heart, reſt and peace, till it come out of all ſuch.</p>
+               <p>A ſecond uſe of this is, to declare the reaſon why the profeſſors of Religion are ſo covetous and ſo cloſe-handed; namely becauſe that knowledg which hath filled their braines, hath not power to ſatisfie their hearts, and that becauſe it is not God, but a ſpeculation of God, ſo that though they ſeeme full, yet are as empty-hearted as the vaineſt man that liveth, and are as apt to en<g ref="char:EOLhyphen"/>tertain every way of gain or glory, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n hope to ſatisfie their reſtles ſoules. For what this peace of God which paſſeth underſtanding is, they never knew, nor can know, becauſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey are ſo buſied in their witty
+<pb n="154" facs="tcp:171725:76"/> working, and underſtand not what it is to become fooles. Laſtly, this ſhould teach all to enquire what is the Haven or harbour for their ſoules, and not to ſet down their reſt, till they be certainly arrived in the God of peace, and are made one with him, in experimentall ac<g ref="char:EOLhyphen"/>quaintance through Chriſt. But when thy ſoule ſhall caſt Anchor in God, thou ſhalt feele and find ma<g ref="char:EOLhyphen"/>ny ſweet and heavenly fruits fol<g ref="char:EOLhyphen"/>lowing, ſuch as is peace in God and joy in the Holy Ghoſt; together with ſweet comfortable and con<g ref="char:EOLhyphen"/>ſtant contempt of the world; as I will briefly touch in the next and laſt Chapter.</p>
+            </div>
+            <div n="12" type="chapter">
+               <pb n="155" facs="tcp:171725:76"/>
+               <head>
+                  <hi>CHAP. XII.</hi> Containing the Symptomes or ſignes of this true happineſſe.</head>
+               <p>THe laſt member of this hearts happineſſe remaineth to be ſhewed, in declaring the ſignes of the anchorage of the hearts ancho<g ref="char:EOLhyphen"/>rage. And they are in number 4. Firſt, the hearts reall reſt. I ſay reall reſt, to diſtinguiſh it from all verball and Imaginary reſt, which man ſup<g ref="char:EOLhyphen"/>poſeth to have obtained, in created and comprehenſible things, of one ſort or another. For, as things re<g ref="char:EOLhyphen"/>all and in true being, do differ from things Imaginary, and as true natu<g ref="char:EOLhyphen"/>rall acts do differ from dreames, ſo doth the peace of that heart (which is eſtabliſhed in God) ſurpaſſe all the peace of naturall men, in their ſen<g ref="char:EOLhyphen"/>ſualities: and all verball profeſſors,
+<pb n="156" facs="tcp:171725:77"/> in their ſeverall formes of religious exerciſes. The truth of this reall peace appearerh, in that it addeth j<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y in tribulation, as St. <hi>Paul</hi> ſhew<g ref="char:EOLhyphen"/>eth, <hi>Rom.</hi> 5.3. and in that it is able to ſtay the heart and minde, <hi>Phil.</hi> 4.7. Such is this peace, that it hath enabled the godly to contend with, and to overcome many potent ad<g ref="char:EOLhyphen"/>verſaries: for proof of this peace, ſee <hi>Prov.</hi> 18.10. <hi>Iſa.</hi> 26.1.2.3. <hi>vers. Pſa.</hi> 116.7. And that this is a reall peace, will further appeare in that it recalleth all the worldly wandrings of the heart, and ſetleth the mind: as will be ſhewed, in the reſtrainr of the appetites, The conſideration of this firſt Symptome, doth ſerve to teach all reſtleſſe, and wandring hearts, that they are not arrived in the H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ven of true being. Let us profeſſe what we will, know what we can, practiſe in religious exerci<g ref="char:EOLhyphen"/>ſes, till nature be ſpent; yet if there
+<pb n="157" facs="tcp:171725:77"/> be a reſtleſſe heart, coveting and longing for more gaine, more glo<g ref="char:EOLhyphen"/>ry, &amp;c. this man hath not knowne the peace of God; but the peace which he hath (if he have any) is a peace of his own framing, and is at<g ref="char:EOLhyphen"/>tended with continuall inſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tiety.</p>
+               <p>The ſecond Symptome of the hearts arrivall, is the joy which it poſſeſſeth. <hi>Maries</hi> heart dorh mag<g ref="char:EOLhyphen"/>nifie the Lord, and her ſpirit doth re<g ref="char:EOLhyphen"/>joyce in God her Saviour; the Kingdom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of God is joy, and how can they but rejoyce, in whom it dwelleth? yea, ſuch is this joy as it wipeth away all ſorrow (in reſpect of that feare and torment which was in the conſcience, ariſing from Gods wrath) from the believers eye. I ſay not all ſorrow, for now this ſlaviſh ſorrow (ariſing from fear) being done away, there is be<g ref="char:EOLhyphen"/>gotten another kinde of grief in the ſoul, <hi>viz.</hi> a grief becauſe the
+<pb n="158" facs="tcp:171725:78"/> ſoul ſinneth, and not becauſe it ſhall be puniſhed; For the love of God hath caſt out this fear. So that this joy is a joy moſt unſpeakable and glorious. And this joy is that which Reverend <hi>Ward</hi> (in his book called <hi>the life of Faith</hi>) doth ſo extort (as it were) from a Chriſtian: for he ſaith plainly, that he will not be<g ref="char:EOLhyphen"/>lieve, that Faith can be without joy.</p>
+               <p>And certainly, that joy muſt needs be great, which is no other thing, but God in power, making glad the heart of man. We ſee how greatly our affection of joy is moved and ſtirred; with almoſt vnſpeakable de<g ref="char:EOLhyphen"/>light, in the reall partaking of ſome earthly endowme<g ref="char:cmbAbbrStroke">̄</g>t. Judge then, how much more are they enlarged with joy: which not verbally, but really, communicate with God; and have by faith a true taſt, and ſure earneſt of all heavenly preferments; which St. <hi>Peter</hi> calleth <hi>an entrance into the
+<pb n="159" facs="tcp:171725:78"/> everlaſting Kingdom of our Lord and Saviour Ieſus Chriſt, and this is ad<g ref="char:EOLhyphen"/>miniſtred</hi> (ſaith he) <hi>abundantly.</hi> And ſome Divines (ſetting forth this happines) ſay, <hi>that the beleever hath one foot in Heaven, as old men have one foote in the grave; and wicked men one foote in hell.</hi>
+               </p>
+               <p>The uſe of this point, is to add ſorrow to the ſorrowfull, but not to ſuch as are filled with godly ſor<g ref="char:EOLhyphen"/>row, (becauſe they ſin againſt their loving Father) but this augmenteth the ſorrow of ſuch as are filled ei<g ref="char:EOLhyphen"/>ther with worldly ſorrow, or with ſlaviſh and diſtruſtfull ſorrow; For all ſuch ſorrow bewrayeth the want of faith, for (as Mr. <hi>Ward</hi> ſaith, ſuch before alleadged) <hi>ſuch as is our Faith ſuch is our joy:</hi> and by conſe<g ref="char:EOLhyphen"/>quence, ſuch as is our ſorrow, ſuch is our unbelief. That is, if our ſor<g ref="char:EOLhyphen"/>row be worldly, or ſlaviſh, and diſ<g ref="char:EOLhyphen"/>truſtfull. Such men as ſo ſorrow,
+<pb n="160" facs="tcp:171725:79"/> may well be told that they have Faith, and ſo they may reſt (as a man in a dreame) and ſuppoſe they have Faith; but God giveth his children ſuch a Faith, which bring<g ref="char:EOLhyphen"/>eth forth ſuch true teſtimonie with it, that men, nor devils cannnot pre<g ref="char:EOLhyphen"/>vaile againſt it: &amp; ſuch a faith as ju<g ref="char:EOLhyphen"/>ſtifieth the ſinner before God, and giveth him inwatd peace toward God in Chriſt. And to ſpeak more plainly, though the degrees of peace and joy may be extenuated, yet the teſtimony of its being in nature ſtill remaineth ſo ſtrong, that the child of God can ever ſay (yea when he feeleth God to be with<g ref="char:EOLhyphen"/>drawing himſelf) <hi>my God, my God, why haſt thou forſaken me.</hi> And in this might of Gods abſence. he re<g ref="char:EOLhyphen"/>maineth confident, that though ſor<g ref="char:EOLhyphen"/>row be over night, yet joy will come in the morning: So that, though the Lord ſhould ſeeme to
+<pb n="161" facs="tcp:171725:79"/> kill him with unkindnes, yet will he put his truſt in him, knowing that (for all this) his Redeemer liveth. yea, in ſpight of infidelity, his Re<g ref="char:EOLhyphen"/>deemer liveth; and my God hath hid his face, and ſuch like phraſes are moſt frequent with the faithfull,</p>
+               <p>The 3. Signe is a generall reſtraint of all mans appetites. And here we are carefully to mark two things.</p>
+               <p>Firſt, how manifold mans appe<g ref="char:EOLhyphen"/>tites are.</p>
+               <p>Secondly, how farre they are re<g ref="char:EOLhyphen"/>ſt<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ined.</p>
+               <p>The appetites of man may be <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ehended in 3. Heads, That is, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ppetites, cordiall, rationall, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. The cordiall appetites are moſt of all reſtrained, the rationall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ppetites are leſſe reſtrained, and the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> are leaſt of all reſtrained, yet <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ained in ſome degree.</p>
+               <p>To enlarge theſe three points a <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ttle.</p>
+               <pb n="162" facs="tcp:171725:80"/>
+               <p>The cordiall appetites, or the naturall longings of the heart, though they move in man moſt ſtrongly, yet are they moſt hidden from man, and where a man doth ſenſibly perceive the appetite of his heart once; he perceiveth the rationall ten times, and the ſenſuall ten hundred times.</p>
+               <p>This appetite of the heart, is nothing elſe but a ſilent mourning of the Spirit, for its proper good, which is God, as it was ſhewed in the ſecond Chap.</p>
+               <p>Now then it muſt needs follow, that when the heart hath met with God, and is arrived in him, it muſt follow, that this appetite of the heart, muſt be very much reſtrained; being in a manner full, through the fulneſſe of God; in which it is eſtabli<g ref="char:EOLhyphen"/>ſhed.</p>
+               <pb n="163" facs="tcp:171725:80"/>
+               <p>The ſecond appetite is the rationall, that is, the wandring of mans mind, in deſire of the comprehenſible goods, according to the determina<g ref="char:EOLhyphen"/>tion of the underſtanding. This ap<g ref="char:EOLhyphen"/>petite is more diſcerned then the for<g ref="char:EOLunhyphen"/>mer, though it move not ſo ſtrong<g ref="char:EOLhyphen"/>ly, and the reaſon why it is more diſcerned, is, becauſe the object of our underſtanding (upon which this appetite worketh) is compre<g ref="char:EOLhyphen"/>henſible: ſo that the mind no ſooner moveth, but the whole man is for the moſt part alwayes acquainted with it, except only at ſuch times as the ſenſuall appetites work more ſtrongly, <hi>in eodem puncto temporis,</hi> in the ſame inſtant. Now this ratio<g ref="char:EOLhyphen"/>nall appetite, being variably, and often exerciſed by reaſon of the ſtrong cry of the heart, (expreſſing its diſcontentment to the under<g ref="char:EOLhyphen"/>ſtanding, in a perpetuall cry of emp<g ref="char:EOLhyphen"/>tineſs) muſt needes be very much
+<pb n="164" facs="tcp:171725:81"/> reſtrained, becauſe that moving of this appetite, (the hearts empti<g ref="char:EOLhyphen"/>neſs) is now ſupplyed.</p>
+               <p>The mind of man hath a naturall motion, for its own delight and re<g ref="char:EOLhyphen"/>creation as it were, and this appe<g ref="char:EOLhyphen"/>tite ſtill remaineth in the mind of man; but that motion which was violent, from the cry of the heart, is now reſtrained, ſo that the appe<g ref="char:EOLhyphen"/>tites of mans mind, are nothing ſo unruly, nor ſo forceable as before; for all the unrulines of this appetite is ſubjugated and ſubdued, in the peace of the heart.</p>
+               <p>The 3. and laſt appetite, is the ſenſuall, and this is leaſt bridled, be<g ref="char:EOLhyphen"/>cauſe it is moſt exerciſed in reliev<g ref="char:EOLhyphen"/>ing of the outward man; notwith<g ref="char:EOLhyphen"/>ſtanding the inordinateneſs of this appetite is brought into a very comely <hi>decorum</hi> and order.</p>
+               <p>So that now the ſenſuall appe<g ref="char:EOLhyphen"/>tite
+<pb n="165" facs="tcp:171725:81"/> can with much more eaſineſs, and contentedneſſe be denyed the object of its deſire; yea, the ſenſu<g ref="char:EOLhyphen"/>all appetite can in a good meaſure be content, with what is moſt re<g ref="char:EOLhyphen"/>pugnant to its deſire; as with hun<g ref="char:EOLhyphen"/>ger, cold, nakedneſs, yea and with death it ſelf, ſuch is the wonderfull working of the hearts quietneſs, it requireth a volumn to expreſs, how it rectifieth and ordereth the whole man.</p>
+               <p>The uſe of this lets us ſee, that whereas all the appetites are unre<g ref="char:EOLhyphen"/>ſtrained, the peace of the heart is not attained.</p>
+               <p>The fourth and laſt Symptome is, ſuch Euchariſticall love; love a<g ref="char:EOLhyphen"/>riſing from a thankfull heart, ex<g ref="char:EOLhyphen"/>tended firſt to God, then towards men.</p>
+               <pb n="166" facs="tcp:171725:82"/>
+               <p>and it is to be noted, that it is love ariſing from thankfulneſs, that is, from a thankfull heart to God, be<g ref="char:EOLhyphen"/>cauſe that his everlaſting love in his Chriſt, is made known to the heart.</p>
+               <p>This man doth not frame him-ſelf to love, and to do good duties, that ſo he may have ſomewhat to thank God for, vain-gloriouſly, as did the <hi>Phariſee:</hi> But being aſſured of Gods love, doth ſtand bound over again to God in love; and thus out of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thankfull heart, ſtandeth knit to God, and to the obedience of his Commandements, ſaying in his heart, O how I love thy Law, and every particular of it.</p>
+               <p>This love of God ſhed abroad i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his ſoule, doth cut down ſelf-love ſo that now this man is for God and his Neighbour, to all and eve<g ref="char:EOLunhyphen"/>ry
+<pb n="167" facs="tcp:171725:82"/> ſuch ſervices, wherein he may glorifie God, and do good unto men; ſo that it is as his meat and drink to be doing of the will of God.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
